@@ -1,0 +1,4072 @@
+﻿3760: Ojamandala
+3800: Blue-Eyes White Dragon
+3802: Blue-Eyes White Dragon
+3806: Dark Magician
+3812: Kuriboh
+3832: Dark Magician Girl
+3833: Dark Magician Girl
+3846: Winged Kuriboh
+3900: Insect Monster Token
+3901: Kuriboh Token
+3906: Army Ant Token
+3907: Slime Token
+3908: Wicked Token
+3909: Poisonous Snake Token
+3910: Lekunga Token
+3911: Clone Token
+3912: Wicked Plant Token
+3913: Mirage Token
+3914: Metal Fiend Token
+3915: Ojama Token
+3916: Ojama Token
+3917: Ojama Token
+3918: Lamb Token
+3919: Lamb Token
+3920: Tricky Token
+3921: Block Token
+3927: Option Token
+3928: Synthetic Seraphim Token
+3929: Double Dude Token
+3930: Eva Token
+3931: Fireball Token
+3933: Cloudian Token
+3934: Engine Token
+3935: Skyblaster Token
+3937: Regenerating Rose Token
+3938: Thunder Option Token
+3940: Doomsday Token
+3941: Sinister Seed Token
+3944: Oyster Token
+3945: Ice Coffin Token
+3947: Horseytail Token
+3949: Gift Fiend Token
+3950: Plant Token
+3951: Seed Token
+3955: Rockstone Token
+3958: Ghost Token
+3959: Jurrac Token
+3960: Worm Token
+3961: Multi Token
+3963: Spider Token
+3964: Soul Token
+3967: Laval Token
+3968: Koa'ki Meiru Token
+3969: Siphon Token
+3971: Compass Token
+3975: Malus Token
+3979: Mecha Phantom Beast Token
+3986: Blackwing - Black Crest Token
+3990: Vassal Token
+3995: Dragon Lord Token
+4007: Blue-Eyes White Dragon
+4008: Mystical Elf
+4009: Hitotsu-Me Giant
+4010: Baby Dragon
+4011: Ryu-Kishin
+4012: Feral Imp
+4013: Winged Dragon, Guardian of the Fortress #1
+4015: Shadow Specter
+4016: Blackland Fire Dragon
+4017: Sword Arm of Dragon
+4018: Swamp Battleguard
+4019: Tyhone
+4020: Battle Steer
+4021: Flame Swordsman
+4022: Time Wizard
+4023: Right Leg of the Forbidden One
+4024: Left Leg of the Forbidden One
+4025: Right Arm of the Forbidden One
+4026: Left Arm of the Forbidden One
+4027: Exodia the Forbidden One
+4028: Summoned Skull
+4029: The Wicked Worm Beast
+4030: Skull Servant
+4031: Horn Imp
+4032: Battle Ox
+4033: Beaver Warrior
+4034: Rock Ogre Grotto #1
+4035: Mountain Warrior
+4036: Zombie Warrior
+4037: Koumori Dragon
+4038: Two-Headed King Rex
+4039: Judge Man
+4040: Saggi the Dark Clown
+4041: Dark Magician
+4042: The Snake Hair
+4043: Gaia the Dragon Champion
+4044: Gaia The Fierce Knight
+4045: Curse of Dragon
+4046: Dragon Piper
+4047: Celtic Guardian
+4049: Karbonala Warrior
+4050: Rogue Doll
+4051: Wattkid
+4053: Torike
+4054: Sangan
+4055: Big Insect
+4056: Basic Insect
+4057: Armored Lizard
+4058: Hercules Beetle
+4059: Killer Needle
+4060: Gokibore
+4061: Giant Flea
+4062: Larvae Moth
+4063: Great Moth
+4064: Kuriboh
+4065: Mammoth Graveyard
+4066: Great White
+4067: Wolf
+4068: Harpie Lady
+4069: Harpie Lady Sisters
+4070: Tiger Axe
+4071: Silver Fang
+4072: Kojikocy
+4073: Perfectly Ultimate Great Moth
+4074: Garoozis
+4075: Thousand Dragon
+4076: Fiend Kraken
+4077: Jellyfish
+4078: Cocoon of Evolution
+4079: Kairyu-Shin
+4080: Giant Soldier of Stone
+4081: Man-Eating Plant
+4082: Krokodilus
+4083: Grappler
+4084: Axe Raider
+4085: Megazowler
+4086: Uraby
+4087: Crawling Dragon #2
+4088: Red-Eyes B. Dragon
+4089: Castle of Dark Illusions
+4090: Reaper of the Cards
+4091: King of Yamimakai
+4093: Dark Chimera
+4095: Catapult Turtle
+4096: Gyakutenno Megami
+4097: Mystic Horseman
+4098: Rabid Horseman
+4100: Crawling Dragon
+4101: Crass Clown
+4102: Armored Zombie
+4103: Dragon Zombie
+4104: Clown Zombie
+4105: Pumpking the King of Ghosts
+4106: Battle Warrior
+4107: Wings of Wicked Flame
+4108: Mask of Darkness
+4110: Curtain of the Dark Ones
+4111: Tomozaurus
+4112: Spirit of the Winds
+4113: Kageningen
+4114: Graveyard and the Hand of Invitation
+4115: Goddess with the Third Eye
+4116: Hero of the East
+4117: Doma The Angel of Silence
+4118: That Which Feeds on Life
+4119: Dark Gray
+4120: White Magical Hat
+4122: Nightmare Scorpion
+4123: Spirit of the Books
+4124: Supporter in the Shadows
+4125: Trial of Nightmare
+4126: Dream Clown
+4128: Yamatano Dragon Scroll
+4129: Dark Plant
+4131: Faith Bird
+4132: Orion the Battle King
+4135: Nemuriko
+4136: Weather Control
+4138: The 13th Grave
+4140: Mystical Capture Chain
+4141: Fiend's Hand
+4143: Mystery Hand
+4144: Dragon Statue
+4145: Blue-Eyed Silver Zombie
+4148: Flame Manipulator
+4149: Necrolancer the Time-lord
+4150: Djinn the Watcher of the Wind
+4151: The Bewitching Phantom Thief
+4157: Rhaimundos of the Red Sword
+4158: The Melting Red Shadow
+4159: Dokuroizo the Grim Reaper
+4160: Fire Reaper
+4162: Hard Armor
+4163: Firegrass
+4164: Man Eater
+4165: Dig Beak
+4166: M-Warrior #1
+4167: M-Warrior #2
+4168: Tainted Wisdom
+4169: Lisark
+4172: Mysterious Puppeteer
+4173: Ancient Jar
+4174: Darkfire Dragon
+4177: Big Eye
+4178: Armaill
+4180: Hurricail
+4181: Ancient Brain
+4182: Fire Eye
+4184: Claw Reacher
+4185: Phantom Dewan
+4186: Arlownay
+4187: Dark Shade
+4190: Genin
+4191: Eyearmor
+4193: Gate Deeg
+4194: Synchar
+4195: Fusionist
+4196: Akakieisu
+4197: LaLa Li-oon
+4198: Key Mace
+4200: Terra the Terrible
+4201: Doron
+4204: Happy Lover
+4205: Penguin Knight
+4206: Petit Dragon
+4207: Frenzied Panda
+4208: Archfiend Marmot of Nefariousness
+4209: Phantom Ghost
+4211: Dorover
+4212: Twin Long Rods #1
+4213: Droll Bird
+4214: Petit Angel
+4216: Hinotama Soul
+4217: Thunder Kid
+4218: Meotoko
+4220: Kagemusha of the Blue Flame
+4221: Flame Ghost
+4222: Doriado
+4223: B. Skull Dragon
+4224: Two-Mouth Darkruler
+4225: Solitude
+4226: Masked Sorcerer
+4227: Kumootoko
+4230: Trap Master
+4231: Fiend Sword
+4233: Hitodenchak
+4234: Wood Remains
+4236: Rare Fish
+4240: Beautiful Headhuntress
+4241: Wodan the Resident of the Forest
+4242: Guardian of the Labyrinth
+4243: Haniwa
+4245: Vishwar Randi
+4246: The Drdek
+4248: Candle of Fate
+4249: Water Element
+4250: Dissolverock
+4251: Meda Bat
+4252: One Who Hunts Souls
+4253: Root Water
+4254: Master & Expert
+4257: Enchanting Mermaid
+4258: Nekogal #1
+4259: Fairywitch
+4260: Embryonic Beast
+4262: D.D. Warrior
+4263: Stone Armadiller
+4264: Beastking of the Swamps
+4266: Lunar Queen Elzaim
+4267: Archfiend Mirror
+4268: The Little Swordsman of Aile
+4270: Wing Egg Elf
+4271: The Furious Sea King
+4273: Unknown Warrior of Fiend
+4274: Sectarian of Secrets
+4275: Versago the Destroyer
+4278: Mavelus
+4281: Ground Attacker Bugroth
+4283: Gorgon Egg
+4284: Petit Moth
+4286: Protector of the Throne
+4288: Mystical Sheep #2
+4289: Holograh
+4290: Tao the Chanter
+4291: Serpent Marauder
+4292: Gatekeeper
+4293: Ogre of the Black Shadow
+4297: Fireyarou
+4298: Psychic Kappa
+4299: Masaki the Legendary Swordsman
+4301: Bio Plant
+4302: One-Eyed Shield Dragon
+4303: Cyber Soldier of Darkworld
+4304: Wicked Dragon with the Ersatz Head
+4305: Sonic Maid
+4306: Kurama
+4307: Legendary Sword
+4308: Sword of Dark Destruction
+4309: Dark Energy
+4310: Axe of Despair
+4311: Laser Cannon Armor
+4312: Insect Armor with Laser Cannon
+4313: Elf's Light
+4314: Beast Fangs
+4315: Steel Shell
+4316: Vile Germs
+4317: Black Pendant
+4318: Silver Bow and Arrow
+4320: Horn of the Unicorn
+4321: Dragon Treasure
+4322: Electro-Whip
+4323: Cyber Shield
+4324: Elegant Egotist
+4325: Mystical Moon
+4326: Stop Defense
+4327: Malevolent Nuzzler
+4328: Violet Crystal
+4329: Book of Secret Arts
+4330: Invigoration
+4331: Machine Conversion Factory
+4332: Raise Body Heat
+4333: Follow Wind
+4334: Power of Kaishin
+4335: Dragon Capture Jar
+4336: Forest
+4337: Wasteland
+4338: Mountain
+4339: Sogen
+4340: Umi
+4341: Yami
+4342: Dark Hole
+4343: Raigeki
+4344: Mooyan Curry
+4345: Red Medicine
+4346: Goblin's Secret Remedy
+4347: Soul of the Pure
+4348: Dian Keto the Cure Master
+4349: Sparks
+4350: Hinotama
+4351: Final Flame
+4354: Swords of Revealing Light
+4356: Dark-Piercing Light
+4357: Yaranzo
+4359: Takriminos
+4361: Megasonic Eye
+4362: Super War-Lion
+4364: Seiyaryu
+4365: Three-Legged Zombies
+4366: Zera the Mant
+4368: Millennium Shield
+4369: Fairy's Gift
+4370: Black Luster Soldier
+4371: Fiend's Mirror
+4372: Labyrinth Wall
+4373: Jirai Gumo
+4374: Shadow Ghoul
+4375: Wall Shadow
+4376: Labyrinth Tank
+4377: Sanga of the Thunder
+4378: Kazejin
+4379: Suijin
+4380: Gate Guardian
+4381: Dungeon Worm
+4382: Monster Tamer
+4383: Ryu-Kishin Powered
+4384: Swordstalker
+4385: La Jinn the Mystical Genie of the Lamp
+4386: Blue-Eyes Ultimate Dragon
+4387: Toon Alligator
+4388: Rude Kaiser
+4389: Parrot Dragon
+4390: Dark Rabbit
+4391: Bickuribox
+4392: Harpie's Pet Dragon
+4394: Pendulum Machine
+4395: Giltia the D. Knight
+4396: Launcher Spider
+4397: Zoa
+4398: Metalzoa
+4399: Zone Eater
+4400: Steel Scorpion
+4401: Dancing Elf
+4403: Leghul
+4404: Ooguchi
+4405: Swordsman from a Distant Land
+4408: Monster Eye
+4410: Tatsunootoshigo
+4412: Yaiba Robo
+4413: Machine King
+4414: Giant Mech-Soldier
+4415: Metal Dragon
+4416: Karakuri Spider
+4417: Bat
+4418: Giga-Tech Wolf
+4419: Cyber Soldier
+4420: Shovel Crusher
+4421: Mechanicalchaser
+4423: Blast Juggler
+4424: Golgoil
+4426: Cyber-Stein
+4427: Cyber Commander
+4428: Jinzo #7
+4431: Thunder Dragon
+4432: Stone Dragon
+4433: Kaiser Dragon
+4434: Magician of Faith
+4435: Goddess of Whim
+4437: Ice Water
+4438: Waterdragon Fairy
+4439: Ancient Elf
+4441: Water Girl
+4442: White Dolphin
+4443: Deepsea Shark
+4445: Bottom Dweller
+4446: 7 Colored Fish
+4450: Turu-Purun
+4451: Sentinel of the Seas
+4454: Spike Seadra
+4459: Millennium Golem
+4460: Destroyer Golem
+4465: Tripwire Beast
+4468: The Immortal of Thunder
+4469: Electric Snake
+4471: Punished Eagle
+4472: Skull Red Bird
+4473: Crimson Sunbird
+4475: Armed Ninja
+4476: Magical Ghost
+4481: Sinister Serpent
+4483: Alinsection
+4484: Insect Soldiers of the Sky
+4485: Cockroach Knight
+4488: Pragtical
+4492: Boo Koo
+4493: Flower Wolf
+4494: Rainbow Flower
+4496: Needle Ball
+4497: Peacock
+4498: Hoshiningen
+4499: Maha Vailo
+4500: Rainbow Marine Mermaid
+4502: Wilmee
+4503: Yado Karu
+4505: Kattapillar
+4506: Dragon Seeker
+4507: Man-Eater Bug
+4510: Fungi of the Musk
+4511: Prisman
+4515: Bracchio-raidus
+4518: Cannon Soldier
+4519: Guardian of the Throne Room
+4520: Brave Scizzar
+4521: The Statue of Easter Island
+4522: Muka Muka
+4529: The Bistro Butcher
+4530: Star Boy
+4531: Spirit of the Mountain
+4533: Milus Radiant
+4538: Gemini Elf
+4541: Kamakiriman
+4543: Mega Thunderball
+4544: Niwatori
+4546: Skelengel
+4547: Hane-Hane
+4549: Tongyo
+4550: Dharma Cannon
+4551: Skelgon
+4553: Griggle
+4557: Dark Elf
+4559: Mushroom Man #2
+4560: Lava Battleguard
+4562: The Wandering Doomed
+4563: Steel Ogre Grotto #1
+4565: Oscillo Hero
+4567: Lesser Dragon
+4570: Great Mammoth of Goldfine
+4572: Yormungarde
+4573: Darkworld Thorns
+4574: Anthrosaurus
+4575: Drooling Lizard
+4576: Trakodon
+4579: Little D
+4583: Crow Goblin
+4585: Abyss Flower
+4586: Patrol Robo
+4588: Dark Witch
+4592: Greenkappa
+4595: Tentacle Plant
+4599: Giant Turtle Who Feeds on Flames
+4600: Rose Spectre of Dunn
+4604: Little Chimera
+4605: Violent Rain
+4607: Tenderness
+4609: Fairy Dragon
+4610: Obese Marmot of Nefariousness
+4612: Twin Long Rods #2
+4614: Shining Friendship
+4615: Bladefly
+4616: Electric Lizard
+4617: Hiro's Shadow Scout
+4618: Lady of Faith
+4619: Twin-Headed Thunder Dragon
+4620: Hunter Spider
+4622: Hourglass of Courage
+4624: Warrior of Tradition
+4625: Rock Spirit
+4626: Snakeyashi
+4627: Succubus Knight
+4630: High Tide Gyojin
+4634: Witch's Apprentice
+4636: Ancient Lizard Warrior
+4637: Maiden of the Moonlight
+4641: Queen's Double
+4642: Blue-Winged Crown
+4644: Queen of Autumn Leaves
+4647: Invader of the Throne
+4648: Mystical Sheep #1
+4649: Disk Magician
+4650: Flame Viper
+4654: Machine Attacker
+4656: Whiptail Crow
+4657: Kunai with Chain
+4658: Magical Labyrinth
+4659: Warrior Elimination
+4660: Salamandra
+4662: Eternal Rest
+4663: Megamorph
+4664: Metalmorph
+4666: Acid Rain
+4668: Eradicating Aerosol
+4669: Breath of Light
+4670: Eternal Drought
+4674: Shine Palace
+4675: Shadow Spell
+4676: Black Luster Ritual
+4677: Zera Ritual
+4678: Harpie's Feather Duster
+4679: War-Lion Ritual
+4680: Beastly Mirror Ritual
+4682: Commencement Dance
+4683: Hamburger Recipe
+4685: Novox's Prayer
+4687: House of Adhesive Tape
+4688: Eatgaboon
+4692: Widespread Ruin
+4693: Goblin Fan
+4694: Bad Reaction to Simochi
+4695: Reverse Trap
+4696: Fake Trap
+4698: Turtle Oath
+4700: Resurrection of Chakra
+4702: Javelin Beetle Pact
+4703: Garma Sword Oath
+4705: Revival of Dokurorider
+4706: Fortress Whale's Oath
+4707: Performance of Sword
+4708: Hungry Burger
+4710: Skull Guardian
+4711: Tri-Horned Dragon
+4712: Serpent Night Dragon
+4713: Skull Knight
+4714: Cosmo Queen
+4715: Chakra
+4716: Crab Turtle
+4718: Meteor Dragon
+4719: Meteor B. Dragon
+4722: Garma Sword
+4723: Javelin Beetle
+4724: Fortress Whale
+4725: Dokurorider
+4727: Black Magic Ritual
+4728: Magician of Black Chaos
+4729: Slot Machine
+4731: Red Archery Girl
+4733: Manga Ryu-Ran
+4734: Toon Mermaid
+4735: Toon Summoned Skull
+4736: Dark-Eyes Illusionist
+4737: Relinquished
+4738: Jigen Bakudan
+4739: Thousand-Eyes Idol
+4743: Hyozanryu
+4744: Alpha The Magnet Warrior
+4745: Legion the Fiend Jester
+4747: Lord of D.
+4748: Red-Eyes Black Metal Dragon
+4749: Barrel Dragon
+4750: Hannibal Necromancer
+4751: Panther Warrior
+4752: Three-Headed Geedo
+4753: Gazelle the King of Mythical Beasts
+4755: Berfomet
+4756: Chimera the Flying Mythical Beast
+4758: Jinzo
+4759: Swordsman of Landstar
+4760: Cyber Raider
+4761: The Fiend Megacyber
+4762: Reflect Bounder
+4763: Beta The Magnet Warrior
+4764: Big Shield Gardna
+4766: Dark Magician Girl
+4767: Alligator's Sword
+4768: Insect Queen
+4769: Parasite Paracide
+4770: Skull-Mark Ladybug
+4771: Little-Winguard
+4772: Pinch Hopper
+4773: Blue-Eyes Toon Dragon
+4774: Sword Hunter
+4775: Drill Bug
+4776: Deepsea Warrior
+4777: Bite Shoes
+4786: Dunames Dark Witch
+4789: Beast of Talwar
+4792: Gamma The Magnet Warrior
+4794: Time Machine
+4795: Copycat
+4798: Toon World
+4799: Gorgon's Eye
+4800: Mimicat
+4802: Black Illusion Ritual
+4803: Brain Control
+4804: Negate Attack
+4805: Multiply
+4806: 7 Completed
+4808: Lightforce Sword
+4810: The Flute of Summoning Dragon
+4811: Shield & Sword
+4813: Chain Destruction
+4814: Mesmeric Control
+4815: Graceful Dice
+4816: Skull Dice
+4817: Mind Control
+4819: Amplifier
+4820: Roulette Spider
+4822: Dark Renewal
+4823: Tragedy
+4826: Mystical Refpanel
+4828: Ectoplasmer
+4830: Dark Magic Curtain
+4831: Anti-Magic Arrows
+4834: Magical Arm Shield
+4837: Polymerization
+4838: Remove Trap
+4839: Two-Pronged Attack
+4840: Blue Medicine
+4841: Raimei
+4842: Monster Reborn
+4843: De-Spell
+4844: Pot of Greed
+4845: Gravedigger Ghoul
+4846: Burning Spear
+4847: Gust Fan
+4848: The Inexperienced Spy
+4849: Reinforcements
+4850: Castle Walls
+4852: Ancient Telescope
+4856: Tribute to The Doomed
+4857: Soul Release
+4858: The Cheerful Coffin
+4862: Magic Jammer
+4863: Seven Tools of the Bandit
+4867: Polymerization
+4868: Last Day of Witch
+4869: Exile of the Wicked
+4870: Magical Thorn
+4871: Restructer Revolution
+4872: Fusion Sage
+4873: Sword of Deep-Seated
+4874: Block Attack
+4877: Germ Infection
+4878: Paralyzing Potion
+4879: The Stern Mystic
+4880: Wall of Illusion
+4881: Neo the Magic Swordsman
+4883: Man-Eating Treasure Chest
+4884: Sorcerer of the Doomed
+4887: Mirror Force
+4888: Ring of Magnetism
+4890: Stim-Pack
+4897: Final Destiny
+4902: Darkness Approaches
+4903: Fairy's Hand Mirror
+4904: Tailor of the Fickle
+4905: Rush Recklessly
+4906: The Reliable Guardian
+4912: Snake Fang
+4916: Senju of the Thousand Hands
+4918: Flash Assailant
+4919: Karate Man
+4920: Dark Zebra
+4925: Boar Soldier
+4927: Flying Kamakiri #1
+4929: Sonic Bird
+4930: Mystic Tomato
+4932: Gaia Power
+4933: Umiiruka
+4934: Molten Destruction
+4935: Rising Air Current
+4936: Luminous Spark
+4937: Mystic Plasma Zone
+4939: Michizure
+4940: Gust
+4941: Driving Snow
+4942: Armored Glass
+4943: World Suppression
+4944: Mystic Probe
+4945: Metal Detector
+4946: Numinous Healer
+4950: Gamble
+4951: DNA Surgery
+4952: The Regulation of Tribe
+4953: Backup Soldier
+4954: Attack and Receive
+4961: Skull Invitation
+4962: Magical Hats
+4963: Nobleman of Crossout
+4964: Nobleman of Extermination
+4965: The Shallow Grave
+4967: Inspection
+4970: Bubonic Vermin
+4972: Twin-Headed Fire Dragon
+4973: Darkfire Soldier #1
+4975: Darkfire Soldier #2
+4976: Kiseitai
+4977: Cyber Falcon
+4979: Flying Kamakiri #2
+4980: Sky Scout
+4981: Oni Tank T-34
+4982: Overdrive
+4983: Buster Blader
+4985: Graverobber
+4986: Gift of The Mystical Elf
+4987: The Eye of Truth
+4988: Dust Tornado
+4989: Call of the Haunted
+4991: Earthshaker
+4992: Enchanted Javelin
+4993: Mirror Wall
+4998: Obelisk the Tormentor
+4999: Slifer the Sky Dragon
+5000: The Winged Dragon of Ra
+5001: Windstorm of Etaqua
+5002: Valkyrion the Magna Warrior
+5003: Alligator's Sword Dragon
+5004: Vorse Raider
+5006: Aqua Chorus
+5007: Sebek's Blessing
+5009: Riryoku
+5010: Sword of Dragon's Soul
+5011: Seal of the Ancients
+5015: Luminous Soldier
+5017: Command Knight
+5018: Wolf Axwielder
+5019: The Illusory Gentleman
+5020: Patrician of Darkness
+5021: Birdface
+5022: Kryuel
+5023: Airknight Parshath
+5024: Fairy King Truesdale
+5026: Maiden of the Aqua
+5027: Robotic Knight
+5028: Thunder Nyan Nyan
+5030: Twin-Headed Behemoth
+5032: Woodland Sprite
+5033: Arsenal Bug
+5034: Cipher Soldier
+5035: Jowls of Dark Demise
+5037: Slate Warrior
+5040: Electromagnetic Bagworm
+5042: Mucus Yolk
+5043: Servant of Catabolism
+5044: Rigorous Reaver
+5045: Moisture Creature
+5053: Sonic Jammer
+5059: Gearfried the Iron Knight
+5060: Humanoid Slime
+5061: Worm Drake
+5062: Humanoid Worm Drake
+5063: Revival Jam
+5065: Flying Fish
+5067: Rocket Warrior
+5069: The Legendary Fisherman
+5072: Robolady
+5073: Roboyarou
+5079: Lightning Conger
+5091: Archfiend of Gilfer
+5092: Gadget Soldier
+5093: Grand Tiki Elder
+5094: The Masked Beast
+5095: Melchid the Four-Face Beast
+5096: Nuvia the Wicked
+5097: Masked Beast Des Gardius
+5098: The Mask of Remnants
+5099: Soul Exchange
+5101: Chosen One
+5102: Mask of Weakness
+5103: Curse of the Masked Beast
+5104: Mask of Dispel
+5107: Mask of the Accursed
+5108: Mask of Brutality
+5109: Return of the Doomed
+5110: Lightning Blade
+5111: Tornado Wall
+5112: Infinite Dismissal
+5114: Torrential Tribute
+5116: Multiplication of Ants
+5118: De-Fusion
+5119: Jam Breeding Machine
+5120: Nightmare's Steelcage
+5121: Infinite Cards
+5122: Jam Defender
+5123: Card of Safe Return
+5124: Magic Cylinder
+5125: Solemn Wishes
+5126: Burning Land
+5128: Fairy Meteor Crush
+5130: Shift
+5131: Insect Imitation
+5132: Dimensionhole
+5133: Magic Drain
+5135: Shadow of Eyes
+5137: Hayabusa Knight
+5138: Bombardment Beetle
+5139: 4-Starred Ladybug of Doom
+5140: Gradius
+5141: Vampire Baby
+5142: Mad Sword Beast
+5143: Skull Mariner
+5147: Wingweaver
+5148: Science Soldier
+5149: Souls of the Forgotten
+5151: Rain of Mercy
+5152: Monster Recovery
+5153: Type Zero Magic Crusher
+5161: Yellow Luster Shield
+5165: Dark Magician
+5166: Thousand Knives
+5168: Mystic Box
+5194: The Unfriendly Amazon
+5195: Amazoness Archer
+5197: Fire Princess
+5198: Lady Assailant of Flames
+5199: Fire Sorcerer
+5200: Spirit of the Breeze
+5201: Dancing Fairy
+5202: Fairy Guardian
+5203: Empress Mantis
+5204: Cure Mermaid
+5205: Hysteric Fairy
+5206: Bio-Mage
+5209: Darklord Marie
+5210: Jar of Greed
+5211: Scroll of Bewitchment
+5213: Mage Power
+5214: Offerings to the Doomed
+5216: Meteor of Destruction
+5217: Lightning Vortex
+5218: Exchange
+5219: The Portrait's Secret
+5220: The Gross Ghost of Fled Dreams
+5221: Headless Knight
+5222: Dark Necrofear
+5223: Magic Formula
+5224: Destiny Board
+5225: The Dark Door
+5226: Earthbound Spirit
+5227: Dark Spirit of the Silent
+5229: The Earl of Demise
+5230: Dark Sage
+5231: Temple of the Kings
+5232: Judgment of Anubis
+5234: Embodiment of Apophis
+5236: Foolish Burial
+5237: Makiu, the Magical Mist
+5238: Ancient Lamp
+5239: Cyber Harpie Lady
+5242: Mystical Beast of Serket
+5243: Swift Gaia the Fierce Knight
+5244: Obnoxious Celtic Guard
+5245: Zombyra the Dark
+5246: Spiritualism
+5248: Kycoo the Ghost Destroyer
+5249: Summoner of Illusions
+5250: Bazoo the Soul-Eater
+5251: Soul of Purity and Light
+5252: Spirit of Flames
+5253: Aqua Spirit
+5254: The Rock Spirit
+5255: Garuda the Wind Spirit
+5256: Gilasaurus
+5257: Tornado Bird
+5258: Dreamsprite
+5259: Supply
+5260: Maryokutai
+5261: Collected Power
+5262: Royal Command
+5263: Riryoku Field
+5264: Skull Lair
+5265: Graverobber's Retribution
+5266: Deal of Phantom
+5267: Destruction Punch
+5269: The Emperor's Holiday
+5270: Cyclon Laser
+5276: Fusion Gate
+5278: Miracle Dig
+5284: Amazoness Swords Woman
+5286: Amazoness Archers
+5287: Rope of Life
+5291: Amazoness Chain Master
+5292: Viser Des
+5295: Amazoness Fighter
+5296: Amazoness Spellcaster
+5298: Nightmare Wheel
+5299: Dramatic Rescue
+5300: Byser Shock
+5301: Dark Ruler Ha Des
+5302: Dark Balter the Terrible
+5303: Lesser Fiend
+5304: Possessed Dark Soul
+5305: Winged Minion
+5306: Skull Knight #2
+5307: Ryu-Kishin Clown
+5308: Twin-Headed Wolf
+5309: Opticlops
+5310: Bark of Dark Ruler
+5311: Fatal Abacus
+5312: Life Absorbing Machine
+5313: The Puppet Magic of Dark Ruler
+5314: Soul Demolition
+5315: Double Snare
+5316: Freed the Matchless General
+5317: Throwstone Unit
+5319: Ryu Senshi
+5320: Warrior Dai Grepher
+5322: Frontier Wiseman
+5323: Exiled Force
+5324: The Hunter with 7 Weapons
+5325: Shadow Tamer
+5326: Dragon Manipulator
+5327: The A. Forces
+5329: Array of Revealing Light
+5330: The Warrior Returning Alive
+5331: Ready for Intercepting
+5332: A Feint Plan
+5333: Tyrant Dragon
+5334: Spear Dragon
+5335: Spirit Ryu
+5337: Lizard Soldier
+5338: Fiend Skull Dragon
+5339: Cave Dragon
+5340: Gray Wing
+5341: Troop Dragon
+5342: The Dragon's Bead
+5343: A Wingbeat of Giant Dragon
+5344: Dragon's Gunfire
+5345: Stamping Destruction
+5347: Dragon's Rage
+5348: Burst Breath
+5349: Luster Dragon #2
+5350: Emergency Provisions
+5351: Keldo
+5352: Dragged Down into the Grave
+5353: Kaiser Glider
+5354: Spell Reproduction
+5355: Shrink
+5356: Mudora
+5357: Cestus of Dagla
+5358: Virus Cannon
+5359: Des Feral Imp
+5362: Muko
+5363: Zolga
+5365: Blast Held by a Tribute
+5366: Agido
+5367: Silent Doom
+5372: Gradius' Option
+5373: Maharaghi
+5374: Inaba White Rabbit
+5376: Susa Soldier
+5377: Yamata Dragon
+5378: Great Long Nose
+5379: Otohime
+5380: Hino-Kagu-Tsuchi
+5381: Asura Priest
+5382: Fushi No Tori
+5383: Super Robolady
+5384: Super Roboyarou
+5385: Fengsheng Mirror
+5387: A Legendary Ocean
+5388: Fusion Sword Murasame Blade
+5389: Smoke Grenade of the Thief
+5390: Spiritual Energy Settle Machine
+5391: Second Coin Toss
+5393: The Secret of the Bandit
+5394: After the Struggle
+5395: Magic Reflector
+5396: Blast with Chain
+5397: Disappear
+5398: Bubble Crash
+5402: Spirit's Invitation
+5403: Nutrient Z
+5408: Des Volstgalph
+5409: Kaiser Sea Horse
+5410: Vampire Lord
+5412: Sasuke Samurai
+5416: Wandering Mummy
+5417: Great Dezard
+5418: Swarm of Scarabs
+5419: Swarm of Locusts
+5420: Giant Axe Mummy
+5421: 8-Claws Scorpion
+5422: Guardian Sphinx
+5425: Dark Scorpion Burglars
+5428: Fushioh Richie
+5429: Cobraman Sakuzy
+5430: Book of Life
+5431: Book of Taiyou
+5432: Book of Moon
+5434: Secret Pass to the Treasures
+5435: Call of the Mummy
+5436: Timidity
+5437: Pyramid Energy
+5438: Tutan Mask
+5440: Bottomless Shifting Sand
+5441: Curse of Royal
+5442: Needle Ceiling
+5443: Statue of the Wicked
+5444: Dark Coffin
+5449: Pharaoh's Treasure
+5450: Toon Dark Magician Girl
+5451: Gilford the Lightning
+5452: Exarion Universe
+5453: Legendary Fiend
+5473: Toon Defense
+5474: Toon Table of Contents
+5475: Toon Masked Sorcerer
+5476: Toon Gemini Elf
+5477: Toon Cannon Soldier
+5478: Toon Goblin Attack Force
+5479: Card of Sanctity
+5481: Multiple Destruction
+5482: Puppet Master
+5483: Gernia
+5484: Newdoria
+5485: Lord Poison
+5486: Spell of Pain
+5488: Blade Knight
+5489: Helpoemer
+5490: Hidden Soldiers
+5491: Gil Garth
+5492: Coffin Seller
+5496: Lava Golem
+5497: Relieve Monster
+5498: Machine Duplication
+5499: Dark Jeroid
+5502: Five-Headed Dragon
+5503: Queen's Knight
+5504: X-Head Cannon
+5505: Enemy Controller
+5506: Master Kyonshee
+5507: Kabazauls
+5510: Gravekeeper's Curse
+5512: Gravekeeper's Spear Soldier
+5513: Gravekeeper's Vassal
+5515: Gravekeeper's Chief
+5516: Gravekeeper's Cannonholder
+5517: Gravekeeper's Assailant
+5518: A Man with Wdjat
+5520: A Cat of Ill Omen
+5521: Yomi Ship
+5522: Winged Sage Falcos
+5523: An Owl of Luck
+5525: Cobra Jar
+5529: Card Shuffle
+5531: Dark Room of Nightmare
+5532: Different Dimension Capsule
+5533: Necrovalley
+5534: Buster Rancher
+5535: Hieroglyph Lithograph
+5538: Banner of Courage
+5542: Curse of Aging
+5546: Disturbance Strategy
+5547: Trap of Board Eraser
+5548: Rite of Spirit
+5550: D. Tribe
+5552: Y-Dragon Head
+5553: XY-Dragon Cannon
+5555: Z-Metal Tank
+5556: XYZ-Dragon Cannon
+5557: Soul Rope
+5558: King's Knight
+5559: Jack's Knight
+5560: Interdimensional Matter Transporter
+5561: Goblin Zombie
+5562: Drillago
+5564: Lekunga
+5574: Cloning
+5575: Cost Down
+5578: People Running About
+5579: Oppressed People
+5580: United Resistance
+5581: Dark Blade
+5582: Pitch-Dark Dragon
+5583: Kiryu
+5584: Decayed Commander
+5585: Zombie Tiger
+5586: Giant Orc
+5587: Second Goblin
+5588: Vampiric Orchis
+5589: Des Dendle
+5590: Burning Beast
+5591: Freezing Beast
+5592: Union Rider
+5593: D.D. Crazy Beast
+5595: Neko Mane King
+5596: Helping Robo for Combat
+5597: Dimension Jar
+5600: Paladin of White Dragon
+5601: White Dragon Ritual
+5602: Frontline Base
+5603: Demotion
+5604: Combination Attack
+5606: Autonomous Action Unit
+5607: Poison of the Old Man
+5608: Ante
+5609: Dark Core
+5612: Kishido Spirit
+5613: Tribute Doll
+5615: Huge Revolution
+5617: Spell Shield Type-8
+5618: Meteorain
+5619: Pineapple Blast
+5621: Physical Double
+5623: Formation Union
+5624: Adhesion Trap Hole
+5625: XZ-Tank Cannon
+5626: YZ-Tank Dragon
+5628: Dark Paladin
+5629: Double Spell
+5630: Spell Absorption
+5631: Diffusion Wave-Motion
+5632: Fiend's Sanctuary
+5641: Great Angus
+5642: Aitsu
+5643: Sonic Duck
+5644: Luster Dragon
+5645: Amazoness Paladin
+5646: Amazoness Blowpiper
+5647: Amazoness Tiger
+5648: Skilled White Magician
+5649: Skilled Dark Magician
+5650: Apprentice Magician
+5651: Old Vindictive Magician
+5652: Chaos Command Magician
+5653: Magical Marionette
+5654: Pixie Knight
+5655: Breaker the Magical Warrior
+5656: Magical Plant Mandragola
+5659: Armor Exe
+5662: Dark Scorpion - Cliff the Trap Remover
+5663: Magical Merchant
+5664: Koitsu
+5665: Cat's Ear Tribe
+5667: Dark Cat with White Tail
+5668: Pitch-Black Power Stone
+5669: Big Bang Shot
+5670: Gather Your Mind
+5672: Senri Eye
+5673: Emblem of Dragon Destroyer
+5675: My Body as a Shield
+5676: Spellbook Organization
+5677: Mega Ton Magical Cannon
+5678: Continuous Destruction Punch
+5679: Exhausting Spell
+5680: Hidden Spellbook
+5681: Miracle Restoring
+5682: Remove Brainwashing
+5683: Disarmament
+5684: Anti-Spell
+5685: The Spell Absorbing Life
+5687: Bowganian
+5688: Magical Stone Excavation
+5695: Granadora
+5697: Shinato, King of a Higher Plane
+5698: Dark Flare Knight
+5699: Mirage Knight
+5700: Berserk Dragon
+5701: Exodia Necross
+5703: Arsenal Summoner
+5704: Nin-Ken Dog
+5705: Acrobat Monkey
+5707: Guardian Ceal
+5708: Guardian Grarl
+5709: Guardian Baou
+5711: Guardian Tryce
+5713: Gyaku-Gire Panda
+5714: Blindly Loyal Goblin
+5715: Despair from the Dark
+5716: Maju Garzett
+5717: Fear from the Dark
+5718: Dark Scorpion - Chick the Yellow
+5719: D.D. Warrior Lady
+5720: Thousand Needles
+5721: Shinato's Ark
+5722: A Deal with Dark Ruler
+5723: Contract with Exodia
+5725: Shooting Star Bow - Ceal
+5726: Gravity Axe - Grarl
+5727: Wicked-Breaking Flamberge - Baou
+5729: Twin Swords of Flashing Light - Tryce
+5730: Precious Cards from Beyond
+5731: Rod of the Mind's Eye
+5732: Fairy of the Spring
+5733: Token Thanksgiving
+5734: Morale Boost
+5735: Non-Spellcasting Area
+5736: Different Dimension Gate
+5737: Staunch Defender
+5738: Ojama Trio
+5739: Arsenal Robber
+5752: Magical Dimension
+5754: Yu-Jo Friendship
+5755: Unity
+5756: Dark Magician Knight
+5757: Knight's Title
+5758: Sage's Stone
+5759: Gagagigo
+5760: D.D. Trainer
+5761: Ojama Green
+5762: Archfiend Soldier
+5763: Pandemonium Watchbear
+5764: Sasuke Samurai #2
+5765: Dark Scorpion - Gorg the Strong
+5766: Dark Scorpion - Meanae the Thorn
+5767: Outstanding Dog Marron
+5768: Great Maju Garzett
+5769: Iron Blacksmith Kotetsu
+5771: Mefist the Infernal General
+5772: Vilepawn Archfiend
+5773: Shadowknight Archfiend
+5774: Darkbishop Archfiend
+5775: Desrook Archfiend
+5776: Infernalqueen Archfiend
+5777: Terrorking Archfiend
+5778: Skull Archfiend of Lightning
+5779: Metallizing Parasite - Lunatite
+5780: Tsukuyomi
+5781: Legendary Flame Lord
+5782: Dark Master - Zorc
+5783: Incandescent Ordeal
+5784: Contract with the Abyss
+5785: Contract with the Dark Master
+5787: Checkmate
+5791: Pandemonium
+5792: Altar for Tribute
+5796: Archfiend's Roar
+5797: Dice Re-Roll
+5798: Spell Vanishing
+5799: Sakuretsu Armor
+5800: Ray of Hope
+5804: Perfect Machine King
+5810: Chiron the Mage
+5811: Ojama Yellow
+5812: Ojama Black
+5814: Big Koala
+5815: Des Kangaroo
+5816: Crimson Ninja
+5817: Strike Ninja
+5818: Gale Lizard
+5820: Chopman the Desperate Outlaw
+5821: Sasuke Samurai #3
+5822: D.D. Scout Plane
+5823: Berserk Gorilla
+5825: Coach Goblin
+5826: Witch Doctor of Chaos
+5827: Chaos Necromancer
+5828: Chaosrider Gustaph
+5831: Gigantes
+5837: Heart of the Underdog
+5838: Wild Nature's Release
+5839: Ojama Delta Hurricane!!
+5841: Chaos End
+5842: Chaos Greed
+5845: Recycle
+5847: Thunder Crash
+5848: Dimension Distortion
+5849: Reload
+5850: Soul Absorption
+5851: Big Burn
+5853: Cursed Seal of the Forbidden Spell
+5854: Tower of Babel
+5855: Spatial Collapse
+5856: Chain Disappearance
+5857: Zero Gravity
+5858: Dark Mirror Force
+5859: Energy Drain
+5869: Magician's Valkyria
+5871: Giga Gagagigo
+5872: Mad Dog of Darkness
+5873: Neo Bug
+5874: Sea Serpent Warrior of Darkness
+5875: Terrorking Salmon
+5876: Blazing Inpachi
+5878: The Thing in the Crater
+5879: Molten Zombie
+5880: Dark Magician of Chaos
+5883: Sacred Crane
+5884: Enraged Battle Ox
+5885: Don Turtle
+5887: Dark Driceratops
+5889: Black Tyranno
+5890: Anti-Aircraft Flower
+5892: Insect Princess
+5893: Amphibious Bugroth MK-3
+5894: Torpedo Fish
+5895: Levia-Dragon - Daedalus
+5896: Orca Mega-Fortress of Darkness
+5897: Cannonball Spear Shellfish
+5899: Guardian Angel Joan
+5901: Getsu Fuhma
+5902: Ryu Kokki
+5903: Gryphon's Feather Duster
+5904: Stray Lambs
+5907: Dedication through Light and Darkness
+5908: Salvage
+5909: Ultra Evolution Pill
+5910: Earth Chant
+5911: Jade Insect Whistle
+5912: Destruction Ring
+5913: Fiend's Hand Mirror
+5915: A Hero Emerges
+5919: DNA Transplant
+5920: Robbin' Zombie
+5921: Trap Jammer
+5922: Invader of Darkness
+5923: Twinheaded Beast
+5924: Winged Rhynos
+5926: Brain Crusher
+5927: Abyss Soldier
+5928: Bitelon
+5930: Inferno Hammer
+5931: Emes the Infinity
+5932: D.D. Assailant
+5933: Teva
+5934: Gora Turtle of Illusion
+5935: Zoma the Spirit
+5943: Maximum Six
+5944: Dangerous Machine Type-6
+5946: Gogiga Gagagigo
+5947: Warrior of Zera
+5948: Sealmaster Meisei
+5949: Mystical Shine Ball
+5950: Metal Armored Bug
+5952: The Agent of Wisdom - Mercury
+5953: The Agent of Creation - Venus
+5955: The Unhappy Girl
+5957: The Kick Man
+5958: Vampire Lady
+5959: Rocket Jumper
+5962: KA-2 Des Scissors
+5964: Blowback Dragon
+5965: Zaborg the Thunder Monarch
+5967: Mermaid Knight
+5968: Piranha Army
+5969: Two Thousand Needles
+5970: Disc Fighter
+5971: Arcane Archer of the Forest
+5972: Lady Ninja Yae
+5975: White Magician Pikeru
+5978: Mystik Wok
+5979: Burst Stream of Destruction
+5980: Monster Gate
+5981: Weapon Change
+5982: The Sanctuary in the Sky
+5983: Earthquake
+5984: Talisman of Trap Sealing
+5985: Goblin Thief
+5987: Micro Ray
+5988: Light of Judgment
+5989: Talisman of Spell Sealing
+5992: Ninjitsu Art of Transformation
+5993: Beckoning Light
+5994: Draining Shield
+5995: Armor Break
+6003: Shield Crush
+6004: Gemini Imps
+6005: Return Zombie
+6006: Legacy of Yata-Garasu
+6010: Call of the Earthbound
+6018: Mokey Mokey
+6019: Gigobyte
+6022: Pharaoh's Servant
+6023: Pharaonic Protector
+6025: Theban Nightmare
+6028: Nubian Guard
+6029: Legacy Hunter
+6030: Desertapir
+6031: Sand Gambler
+6032: 3-Hump Lacooda
+6033: Ghost Knight of Jackal
+6034: Absorbing Kid from the Sky
+6035: Elephant Statue of Blessing
+6036: Elephant Statue of Disaster
+6037: Spirit Caller
+6038: Emissary of the Afterlife
+6040: Double Coston
+6041: Regenerating Mummy
+6043: Man-Thro' Tro'
+6044: King of the Swamp
+6045: Emissary of the Oasis
+6046: Special Hurricane
+6047: Order to Charge
+6048: Sword of the Soul-Eater
+6049: Dust Barrier
+6050: Soul Reversal
+6051: Spell Economics
+6052: Blessings of the Nile
+6053: 7
+6055: Enchanting Fitting Room
+6057: Dark Magic Attack
+6058: Delta Attacker
+6059: Thousand Energy
+6066: Human-Wave Tactics
+6067: Curse of Anubis
+6068: Desert Sunlight
+6069: Des Counterblow
+6070: Labyrinth of Nightmare
+6071: Soul Resurrection
+6072: Order to Smash
+6076: Gandora the Dragon of Destruction
+6079: Pyramid of Light
+6082: Blue-Eyes Shining Dragon
+6083: Familiar Knight
+6084: Rare Metal Dragon
+6085: Peten the Dark Clown
+6086: Sorcerer of Dark Magic
+6087: Andro Sphinx
+6088: Sphinx Teleia
+6089: Theinen the Great Sphinx
+6090: Inferno Tempest
+6092: Watapon
+6094: Neo Aqua Madoor
+6096: Goblin Calligrapher
+6097: Ultimate Insect LV1
+6098: Horus the Black Flame Dragon LV4
+6099: Horus the Black Flame Dragon LV6
+6100: Horus the Black Flame Dragon LV8
+6101: Dark Mimic LV1
+6102: Dark Mimic LV3
+6103: Mystic Swordsman LV2
+6104: Mystic Swordsman LV4
+6105: Armed Dragon LV3
+6106: Armed Dragon LV5
+6107: Armed Dragon LV7
+6108: Horus' Servant
+6109: Black Dragon's Chick
+6110: Malice Doll of Demise
+6111: Ninja Grandmaster Sasuke
+6115: Element Dragon
+6116: Element Soldier
+6117: Howling Insect
+6118: Masked Dragon
+6119: Mind on Air
+6120: Unshaven Angler
+6121: The Trojan Horse
+6122: Nobleman-Eater Bug
+6123: Enraged Muka Muka
+6124: Hade-Hane
+6125: Penumbral Soldier Lady
+6126: Ojama King
+6127: Master of Oz
+6129: Dark Factory of Mass Production
+6131: Mind Wipe
+6132: Abyssal Designator
+6133: Level Up!
+6135: The Graveyard in the Fourth Dimension
+6136: Two-Man Cell Battle
+6137: Big Wave Small Wave
+6138: Fusion Weapon
+6139: Ritual Weapon
+6140: Taunt
+6141: Absolute End
+6142: Spirit Barrier
+6144: Enervating Mist
+6145: Heavy Slump
+6149: Hallowed Life Barrier
+6150: The Tricky
+6154: Ties of the Brethren
+6158: Tricky Spell 4
+6159: Shattered Axe
+6160: Blockman
+6161: Gold Sarcophagus
+6162: Silent Swordsman LV3
+6164: Silent Swordsman LV5
+6166: Silent Swordsman LV7
+6167: Silent Magician LV4
+6168: Magician's Circle
+6169: Magicians Unite
+6170: Silent Magician LV8
+6172: Woodborg Inpachi
+6173: Mighty Guard
+6174: Bokoichi the Freightening Car
+6175: Harpie Girl
+6176: The Creator
+6177: The Creator Incarnate
+6178: Ultimate Insect LV3
+6179: Mystic Swordsman LV6
+6181: Heavy Mech Support Platform
+6182: Element Magician
+6183: Element Saurus
+6184: Roc from the Valley of Haze
+6186: Harpie Lady 1
+6187: Harpie Lady 2
+6188: Harpie Lady 3
+6189: Raging Flame Sprite
+6190: Thestalos the Firestorm Monarch
+6191: Eagle Eye
+6192: Tactical Espionage Expert
+6193: Invasion of Flames
+6194: Creeping Doom Manta
+6195: Pitch-Black Warwolf
+6196: Mirage Dragon
+6197: Gaia Soul the Combustible Collective
+6199: B.E.S. Big Core
+6201: Dekoichi the Battlechanted Locomotive
+6202: A-Team: Trap Disposal Unit
+6203: Homunculus the Alchemic Being
+6204: Dark Blade the Dragon Knight
+6205: Mokey Mokey King
+6207: Harpies' Hunting Ground
+6208: Triangle Ecstasy Spark
+6209: Necklace of Command
+6211: Mokey Mokey Smackdown
+6213: Monster Reincarnation
+6214: Ballista of Rampart Smashing
+6215: Lighten the Load
+6216: Malice Dispersion
+6217: Divine Wrath
+6218: Xing Zhen Hu
+6219: Rare Metalmorph
+6220: Fruits of Kozaky's Studies
+6221: Mind Haxorz
+6222: Fuh-Rin-Ka-Zan
+6224: Pikeru's Circle of Enchantment
+6225: Spell Purification
+6226: Astral Barrier
+6227: Covering Fire
+6231: Owner's Seal
+6232: Space Mambo
+6233: Divine Dragon Ragnarok
+6234: Chu-Ske the Mouse Fighter
+6235: Insect Knight
+6236: Sacred Phoenix of Nephthys
+6237: Hand of Nephthys
+6238: Ultimate Insect LV5
+6239: Granmarg the Rock Monarch
+6240: Element Valkyrie
+6241: Element Doom
+6242: Maji-Gire Panda
+6244: Behemoth the King of All Animals
+6245: Big-Tusked Mammoth
+6246: Kangaroo Champ
+6247: Hyena
+6248: Blade Rabbit
+6250: Blast Magician
+6251: Gearfried the Swordmaster
+6253: Shadowslayer
+6254: Golem Sentry
+6255: Abare Ushioni
+6256: The Light - Hex-Sealed Fusion
+6257: The Dark - Hex-Sealed Fusion
+6258: The Earth - Hex-Sealed Fusion
+6259: Whirlwind Prodigy
+6260: Flame Ruler
+6261: Firebird
+6264: Gatling Dragon
+6265: King Dragun
+6266: A Feather of the Phoenix
+6267: Poison Fangs
+6269: Spiral Spear Strike
+6270: Release Restraint
+6271: Centrifugal Field
+6272: Fulfillment of the Contract
+6273: Re-Fusion
+6274: The Big March of Animals
+6280: Good Goblin Housekeeping
+6282: Assault on GHQ
+6286: Forced Ceasefire
+6287: Vampire's Curse
+6288: Union Attack
+6289: Blood Sucker
+6291: Overpowering Eye
+6293: Vampire Genesis
+6298: Kaibaman
+6302: Machina Soldier
+6304: Machina Sniper
+6310: Elemental HERO Avian
+6311: Elemental HERO Burstinatrix
+6312: Elemental HERO Clayman
+6313: Elemental HERO Sparkman
+6314: Winged Kuriboh
+6315: Ancient Gear Golem
+6316: Ancient Gear Beast
+6317: Ancient Gear Soldier
+6318: Millennium Scorpion
+6319: Ultimate Insect LV7
+6320: Lost Guardian
+6324: Megarock Dragon
+6326: Grave Ohja
+6328: Monk Fighter
+6329: Master Monk
+6330: Guardian Statue
+6331: Medusa Worm
+6332: D.D. Survivor
+6333: Mid Shield Gardna
+6334: White Ninja
+6335: Aussa the Earth Charmer
+6336: Eria the Water Charmer
+6337: Hiita the Fire Charmer
+6338: Wynn the Wind Charmer
+6339: Batteryman AA
+6340: Des Wombat
+6341: King of the Skull Servants
+6343: Elemental Mistress Doriado
+6344: Elemental HERO Flame Wingman
+6345: Elemental HERO Thunder Giant
+6346: Gift of the Martyr
+6347: Double Attack
+6348: Battery Charger
+6349: Kaminote Blow
+6350: Doriado's Blessing
+6352: Legendary Black Belt
+6355: Impenetrable Formation
+6356: Hero Signal
+6363: Grave Lure
+6365: Spell-Stopping Statute
+6366: Royal Surrender
+6368: Infernal Flame Emperor
+6374: Divine Knight Ishzark
+6376: Ocean Dragon Lord - Neo-Daedalus
+6380: Green Baboon, Defender of the Forest
+6383: Cycroid
+6384: Patroid
+6385: Gyroid
+6386: Steamroid
+6387: Drillroid
+6388: UFOroid
+6389: Jetroid
+6390: Cyber Dragon
+6391: Wroughtweiler
+6392: Dark Catapulter
+6393: Elemental HERO Bubbleman
+6394: Steam Gyroid
+6395: UFOroid Fighter
+6396: Cyber Twin Dragon
+6397: Cyber End Dragon
+6398: Power Bond
+6399: Skyscraper
+6408: Bubble Shuffle
+6409: Spark Blaster
+6410: Van'Dalgyon the Dark Dragon Lord
+6411: Soitsu
+6413: Jerry Beans Man
+6414: Cybernetic Magician
+6415: Cybernetic Cyclopean
+6417: Cyber Archfiend
+6419: B.E.S. Crystal Core
+6423: Doitsu
+6424: Des Frog
+6425: T.A.D.P.O.L.E.
+6426: Poison Draw Frog
+6427: Tyranno Infinity
+6428: Batteryman C
+6429: Ebon Magician Curran
+6430: D.D.M. - Different Dimension Master
+6431: Fusion Recovery
+6432: Miracle Fusion
+6433: Dragon's Mirror
+6434: System Down
+6435: Des Croaking
+6436: Pot of Generosity
+6437: Shien's Spy
+6439: Spiritual Earth Art - Kurogane
+6442: Spiritual Wind Art - Miyabi
+6443: A Rival Appears!
+6445: Rising Energy
+6446: D.D. Trap Hole
+6447: Conscription
+6449: Prepare to Strike Back
+6450: The Selection
+6454: Arcana Knight Joker
+6456: Gilford the Legend
+6458: Divine Sword - Phoenix Blade
+6465: Dreadscythe Harvester
+6467: Elemental HERO Shining Flare Wingman
+6468: Level Modulation
+6469: Ojamuscle
+6470: Ojamagic
+6471: V-Tiger Jet
+6472: Blade Skater
+6473: Reborn Zombie
+6474: Chthonian Soldier
+6475: W-Wing Catapult
+6476: Infernal Incinerator
+6477: Elemental HERO Bladedge
+6478: Elemental HERO Wildheart
+6479: Hydrogeddon
+6480: Oxygeddon
+6481: Water Dragon
+6482: Etoile Cyber
+6483: VW-Tiger Catapult
+6484: VWXYZ-Dragon Catapult Cannon
+6485: Cyber Blader
+6486: Elemental HERO Rampart Blaster
+6487: Elemental HERO Tempest
+6488: Elemental HERO Wildedge
+6489: Chthonian Alliance
+6491: Feather Shot
+6492: Bonding - H2O
+6493: Chthonian Polymer
+6494: Chthonian Blast
+6495: Hero Barrier
+6496: Feather Wind
+6497: Zure, Knight of Dark World
+6498: B.E.S. Tetran
+6499: Nanobreaker
+6501: Beiige, Vanguard of Dark World
+6502: Broww, Huntsman of Dark World
+6503: Brron, Mad King of Dark World
+6506: Scarr, Scout of Dark World
+6507: Familiar-Possessed - Aussa
+6508: Familiar-Possessed - Eria
+6509: Familiar-Possessed - Hiita
+6510: Familiar-Possessed - Wynn
+6512: Dark World Lightning
+6513: Branch!
+6516: The Forces of Darkness
+6518: Simultaneous Loss
+6519: Weed Out
+6520: The League of Uniform Nomenclature
+6521: Roll Out!
+6524: Armed Changer
+6527: Elemental HERO Necroshade
+6529: Elemental HERO Mudballman
+6530: Dark Eradicator Warlock
+6531: Mythical Beast Cerberus
+6532: Magical Blast
+6535: Elemental HERO Steam Healer
+6536: Burst Return
+6537: Bubble Blaster
+6538: Bubble Illusion
+6539: Clay Charge
+6540: Armed Dragon LV10
+6541: Magical Mallet
+6543: Ring of Defense
+6544: The Grave of Enkindling
+6545: Lancer Dragonute
+6547: Axe Dragonute
+6550: White-Horned Dragon
+6555: Dark Red Enchanter
+6567: Hero Kid
+6568: Cyber Barrier Dragon
+6569: Cyber Laser Dragon
+6570: Ancient Gear
+6571: Hero Heart
+6572: Magnet Circle LV2
+6573: Ancient Gear Factory
+6574: Ancient Gear Drill
+6576: Cyclone Boomerang
+6577: Photon Generator Unit
+6578: Ancient Gear Castle
+6579: Super Junior Confrontation
+6580: Miracle Kids
+6581: Attack Reflector Unit
+6583: Treasure Map
+6584: Hero Spirit
+6587: Ancient Gear Cannon
+6588: Proto-Cyber Dragon
+6589: Adhesive Explosive
+6590: Machine King Prototype
+6593: Chain Thrasher
+6594: Disciple of the Forbidden Spell
+6595: Tenkabito Shien
+6596: Parasitic Ticky
+6597: Gokipon
+6598: Silent Insect
+6600: Anteatereatingant
+6601: Saber Beetle
+6602: Doom Dozer
+6603: Treeborn Frog
+6604: Beelze Frog
+6607: Memory Crusher
+6608: Malice Ascendant
+6609: Grass Phantom
+6611: Divine Dragon - Excelion
+6614: D.3.S. Frog
+6615: Symbol of Heritage
+6618: Samsara
+6620: Next to be Lost
+6621: Generation Shift
+6623: Success Probability 0%
+6624: Option Hunter
+6625: Goblin Out of the Frying Pan
+6626: Malfunction
+6636: The Flute of Summoning Kuriboh
+6641: Great Spirit
+6642: Canyon
+6643: Elemental HERO Wild Wingman
+6644: Elemental HERO Necroid Shaman
+6645: Golden Homunculus
+6653: Elemental HERO Neos
+6657: Elemental HERO Mariner
+6658: Destiny HERO - Doom Lord
+6659: Destiny HERO - Captain Tenacious
+6660: Destiny HERO - Diamond Dude
+6661: Destiny HERO - Dreadmaster
+6662: Cyber Kirin
+6663: Cyber Phoenix
+6664: Cyber Tutu
+6665: Cyber Gymnast
+6666: Cyber Prima
+6667: Guard Penalty
+6668: Clock Tower Prison
+6671: H - Heated Heart
+6672: E - Emergency Call
+6673: R - Righteous Justice
+6674: O - Oversoul
+6676: Elemental Recharge
+6677: Destruction of Destiny
+6679: Destiny Signal
+6683: Searchlightman
+6684: Victory Viper XX03
+6685: Super-Electromagnetic Voltech Dragon
+6687: Majestic Mech - Senku
+6690: Bountiful Artemis
+6691: Royal Knight
+6692: Herald of Purple Light
+6693: Herald of Green Light
+6696: Voltanis the Adjudicator
+6697: Guard Dog
+6698: Whirlwind Weasel
+6699: Avalanching Aussa
+6700: Raging Eria
+6701: Blazing Hiita
+6702: Storming Wynn
+6703: Batteryman D
+6704: Swift Birdman Joe
+6705: Celestial Transformation
+6706: Power Capsule
+6707: Dimensional Fissure
+6709: Icarus Attack
+6710: Miraculous Descent
+6711: Synthetic Seraphim
+6720: Simorgh, Bird of Divinity
+6721: Sonic Shooter
+6722: Hysteric Party
+6723: Puppet King
+6727: Cyber Dinosaur
+6728: Elemental HERO Woodsman
+6731: Elemental HERO Terra Firma
+6733: Elemental HERO Ocean
+6734: Chimeratech Overdragon
+6735: Expressroid
+6736: Ambulanceroid
+6737: Cyber Summon Blaster
+6738: Submarineroid
+6739: Super Vehicroid Jumbo Drill
+6741: Stealthroid
+6742: Decoyroid
+6743: Truckroid
+6744: Ambulance Rescueroid
+6745: Rescueroid
+6746: No Entry!!
+6747: Supercharge
+6748: Vehicroid Connection Zone
+6749: Wonder Garage
+6752: Destiny HERO - Blade Master
+6753: Destiny HERO - Dasher
+6754: Destiny HERO - Double Dude
+6756: Destiny HERO - Fear Monger
+6757: Destiny HERO - Dogma
+6758: Dark City
+6759: Mausoleum of the Emperor
+6761: D - Chain
+6762: D - Spirit
+6763: Destiny Mirage
+6765: Elemental HERO Dark Neos
+6766: Elemental HERO Aqua Neos
+6767: Elemental HERO Flare Neos
+6768: Neo-Spacian Aqua Dolphin
+6769: Neo-Spacian Air Hummingbird
+6771: Neo-Spacian Glow Moss
+6772: Neo-Spacian Dark Panther
+6773: Neo-Spacian Flare Scarab
+6775: Neo Space
+6778: Rallis the Star Bird
+6779: Fake Hero
+6781: Spell Calling
+6782: Future Fusion
+6783: Overload Fusion
+6784: Elemental HERO Stratos
+6785: HERO's Bond
+6790: Dragonic Knight
+6794: Zeta Reticulant
+6796: Sabersaurus
+6798: Black Ptera
+6799: Babycerasaurus
+6800: Alien Grey
+6801: Alien Mars
+6802: Alien Skull
+6803: Alien Hunter
+6804: Alien Warrior
+6805: Alien Mother
+6806: Cosmic Horror Gangi'el
+6807: Flying Saucer Muusik'i
+6808: Crop Circles
+6810: Orbital Bombardment
+6811: Fossil Excavation
+6812: Brainwashing Beam
+6813: Royal Writ of Taxation
+6814: Cyclone Blade
+6815: Toy Magician
+6816: Super Conductor Tyranno
+6817: Hunting Instinct
+6818: Survival Instinct
+6819: Big Evolution Pill
+6822: Tail Swipe
+6823: Jurassic World
+6825: Seismic Shockwave
+6830: Cyberdark Horn
+6831: Cyberdark Edge
+6832: Cyberdark Keel
+6833: Cyberdark Dragon
+6834: Power Wall
+6841: Ancient Gear Engineer
+6842: Ancient Gear Tank
+6843: Ancient Gear Explosive
+6844: Ancient Gear Fist
+6845: Cyber Angel Benten
+6846: Cyber Angel Idaten
+6847: Cyber Angel Dakini
+6848: Cyber Petit Angel
+6850: Machine Angel Ritual
+6854: Cyber Ogre
+6855: Cyber Esper
+6856: Cyber Ogre 2
+6858: Cyber Shadow Gardna
+6859: Byroad Sacrifice
+6860: Trojan Blast
+6869: Greed Quasar
+6870: Allure Queen LV3
+6871: Allure Queen LV5
+6872: Allure Queen LV7
+6876: Dark Lucius LV4
+6877: Dark Lucius LV6
+6878: Dark Lucius LV8
+6879: Snipe Hunter
+6880: Blast Asmodian
+6884: Barrier Statue of the Inferno
+6889: Iris, the Earth Mother
+6890: Lightning Punisher
+6891: Queen's Bodyguard
+6892: Combo Fighter
+6893: Combo Master
+6894: Man Beast of Ares
+6898: Corruption Cell "A"
+6899: Flash of the Forbidden Spell
+6900: Ritual Foregone
+6902: Counter Cleaner
+6905: Miraculous Rebirth
+6906: Mystical Wind Typhoon
+6907: Level Down!?
+6908: Degenerate Circuit
+6911: Straight Flush
+6913: Dimensional Inversion
+6914: Chain Healing
+6916: Accumulated Fortune
+6917: Vanity's Call
+6920: Goka, the Pyre of Malice
+6922: Terra Firma Gravity
+6927: Elemental HERO Heat
+6928: Cold Enchanter
+6935: Ancient Gear Workshop
+6936: Stray Asmodian
+6938: Flame Ogre
+6939: Card Trooper
+6940: Light Laser
+6943: Kid Guard
+6944: Infernal Dragon
+6945: Ruthless Denial
+6946: Return Soul
+6947: Damage Polarizer
+6948: Fusion Guard
+6949: Destiny HERO - Malicious
+6950: Destiny Draw
+6951: Over Destiny
+6952: D - Counter
+6953: Eternal Dread
+6954: Phantom Beast Cross-Wing
+6955: Phantom Beast Wild-Horn
+6956: Phantom Beast Thunder-Pegasus
+6957: Phantom Beast Rock-Lizard
+6962: Spiral Serpent
+6963: The Six Samurai - Yariza
+6964: The Six Samurai - Zanji
+6965: The Six Samurai - Nisashi
+6966: The Six Samurai - Yaichi
+6967: The Six Samurai - Kamon
+6968: The Six Samurai - Irou
+6969: Great Shogun Shien
+6970: Shien's Footsoldier
+6971: Sage of Silence
+6972: Sage of Stillness
+6973: Reign-Beaux, Overlord of Dark World
+6974: Kahkki, Guerilla of Dark World
+6975: Gren, Tactician of Dark World
+6976: Fusion Devourer
+6981: Raging Earth
+6982: Silent Abyss
+6983: Firestorm Prominence
+6984: Destruction Cyclone
+6985: Umbral Soul
+6986: Radiant Spirit
+6988: Elemental HERO Glow Neos
+6991: Lycanthrope
+6992: Cú Chulainn the Awakened
+6994: "A" Cell Scatter Burst
+6995: Ancient Rules
+6997: Synthesis Spell
+6998: Emblem of the Awakening
+6999: Twister
+7000: Legendary Ebon Steed
+7001: Card Trader
+7002: Dark World Dealings
+7003: Shien's Castle of Mist
+7006: Hero Medal
+7007: Return of the Six Samurai
+7008: Eliminating the League
+7009: Flashbang
+7010: The Transmigration Prophecy
+7011: Anti-Fusion Device
+7012: Ritual Sealing
+7013: Birthright
+7016: Pulling the Rug
+7018: Metal Shooter
+7019: Des Mosquito
+7024: Elemental HERO Lady Heat
+7025: Ice Master
+7026: Elemental HERO Inferno
+7035: Angel O7
+7046: Neo-Parshath, the Sky Paladin
+7047: Meltiel, Sage of the Sky
+7048: Harvest Angel of Wisdom
+7049: Freya, Spirit of Victory
+7051: Radiant Jeral
+7053: Aegis of Gaia
+7056: Carrierroid
+7057: Armoroid
+7058: Elemental HERO Voltic
+7064: Mosaic Manticore
+7068: Belial - Marquis of Darkness
+7071: Crystal Beast Amethyst Cat
+7072: Crystal Beast Amber Mammoth
+7073: Crystal Beacon
+7074: Crystal Beast Ruby Carbuncle
+7075: Crystal Beast Emerald Tortoise
+7076: Crystal Beast Topaz Tiger
+7077: Crystal Beast Cobalt Eagle
+7078: Crystal Beast Sapphire Pegasus
+7079: Ancient City - Rainbow Ruins
+7080: Rare Value
+7082: Volcanic Shell
+7084: Triggered Summon
+7085: Volcanic Doomfire
+7086: Blaze Accelerator
+7088: Tri-Blaze Accelerator
+7093: Spell Striker
+7094: Exploder Dragon
+7096: Destiny HERO - Plasma
+7102: Volcanic Blaster
+7104: Volcanic Hammerer
+7105: Elemental HERO Captain Gold
+7107: Warrior of Atlantis
+7108: Destroyersaurus
+7109: Zeradias, Herald of Heaven
+7110: Archfiend General
+7111: Harpie Queen
+7112: Sky Scourge Enrise
+7115: Goe Goe the Gallant Ninja
+7116: Mei-Kou, Master of Barriers
+7118: Seismic Crasher
+7119: Dweller in the Depths
+7120: Magna-Slash Dragon
+7121: Gravi-Crush Dragon
+7122: Crystal Blessing
+7124: Crystal Promise
+7125: Lucky Iron Axe
+7126: Tornado
+7127: Field Barrier
+7128: "A" Cell Breeding Device
+7129: Otherworld - The "A" Zone
+7130: Crystal Raigeki
+7131: Volcanic Recharge
+7132: Terrible Deal
+7136: Secrets of the Gallant
+7137: Radiant Mirror Force
+7138: Hard-sellin' Goblin
+7139: Hard-sellin' Zombie
+7141: Gem Flash Energy
+7142: Voltic Kong
+7143: Botanical Lion
+7144: Gravity Behemoth
+7145: Grandmaster of the Six Samurai
+7146: Diabolos, King of the Abyss
+7147: Lich Lord, King of the Underworld
+7148: Prometheus, King of the Shadows
+7149: Mist Archfiend
+7150: Plague Wolf
+7151: Recurring Nightmare
+7152: Sword of Dark Rites
+7161: Fifth Hope
+7162: NEX
+7165: Snake Whistle
+7167: Damage = Reptile
+7171: Rainbow Dragon
+7174: Neo-Spacian Marine Dolphin
+7175: Elemental HERO Marine Neos
+7176: Elemental HERO Darkbright
+7179: Ojama Knight
+7188: Ritual Raven
+7190: Alien Shocktrooper
+7191: Volcanic Rat
+7193: Hunter Dragon
+7195: Elemental HERO Neos Alius
+7197: Aquarian Alessa
+7198: Lucky Pied Piper
+7199: Grasschopper
+7200: Goggle Golem
+7201: Dawnbreak Gardna
+7202: Doom Shaman
+7203: King Pyron
+7204: Shadow Delver
+7207: Phantom Cricket
+7208: Crystal Seer
+7209: Neo Space Pathfinder
+7210: Frost and Flame Dragon
+7211: Desert Twister
+7212: Razor Lizard
+7213: Light Effigy
+7214: Dark Effigy
+7215: Zombie Master
+7217: Cyberdark Impact!
+7219: Double Summon
+7221: Creature Seizure
+7222: Phalanx Pike
+7223: Symbols of Duty
+7224: Amulet of Ambition
+7225: Broken Bamboo Sword
+7228: Common Charity
+7229: Destructive Draw
+7230: Shield Spear
+7232: Spell Reclamation
+7233: Trap Reclamation
+7236: Counter Counter
+7243: Volcanic Rocket
+7244: Felgrand Dragon
+7245: Darkblaze Dragon
+7246: Herald of Creation
+7252: Elemental HERO Plasma Vice
+7254: Over Limit
+7255: Contact Out
+7256: Swing of Memories
+7264: Cloudian - Eye of the Typhoon
+7265: Cloudian - Ghost Fog
+7266: Cloudian - Nimbusman
+7267: Cloudian - Sheep Cloud
+7269: Diamond-Dust Cyclone
+7270: Summon Cloud
+7271: Lucky Cloud
+7273: Rain Storm
+7277: Cloudian - Smoke Ball
+7278: Cloudian - Acid Cloud
+7279: Cloudian - Cirrostratus
+7280: Cloudian - Altus
+7281: Cloudian - Turbulence
+7282: Gladiator Beast Alexander
+7283: Gladiator Beast Spartacus
+7284: Gladiator Beast Murmillo
+7285: Gladiator Beast Bestiari
+7286: Gladiator Beast Laquari
+7288: Gladiator Beast Dimacari
+7289: Gladiator Beast Secutor
+7290: Test Ape
+7292: Infinity Dark
+7293: Magical Reflect Slime
+7294: Ancient Gear Knight
+7297: Enishi, Shien's Chancellor
+7298: Spirit of the Six Samurai
+7299: Alien Telepath
+7300: Alien Hypno
+7301: Superalloy Beast Raptinus
+7303: Gladiator Beast Heraklinos
+7304: Fog Control
+7305: Cloudian Squall
+7306: Super Double Summon
+7307: Colosseum - Cage of the Gladiator Beasts
+7308: Gladiator Beast's Battle Halberd
+7309: Gladiator Beast's Battle Gladius
+7311: Gladiator Beast's Respite
+7312: Gladiator's Return
+7314: Cunning of the Six Samurai
+7315: "A" Cell Incubator
+7317: Release from Stone
+7320: Disarm
+7321: Parry
+7322: Swiftstrike Armor
+7324: Energy-Absorbing Monolith
+7328: Foolish Revival
+7331: Fiendish Engine Ω
+7332: Gemini Summoner
+7333: Ocean's Keeper
+7334: Thousand-Eyes Jellyfish
+7335: Cranium Fish
+7336: Abyssal Kingshark
+7337: Mormolith
+7338: Fossil Tusker
+7339: Phantom Dragonray Bronto
+7340: Il Blud
+7341: Blazewing Butterfly
+7343: White Night Dragon
+7345: Card Blocker
+7348: Mad Reloader
+7353: Dark Cure
+7354: Brutal Potion
+7365: Gladiator Beast Andal
+7366: Atlantean Pikeman
+7367: Earth Effigy
+7368: Wind Effigy
+7369: Gemini Lancer
+7370: Imprisoned Queen Archfiend
+7377: Armor Breaker
+7382: Revoke Fusion
+7383: Hero's Rule 2
+7384: Phantom Skyblaster
+7385: Grave Squirmer
+7387: Counter Gem
+7388: Crystal Pair
+7390: Crystal Release
+7391: Crystal Tree
+7398: Deep Diver
+7400: Dimensional Prison
+7401: Vortex Trooper
+7406: Rainbow Dark Dragon
+7407: Samsara Lotus
+7408: Regenerating Rose
+7409: Yubel
+7410: Yubel - Terror Incarnate
+7411: Yubel - The Ultimate Nightmare
+7412: Armored Cybern
+7413: Cyber Valley
+7414: Cyber Ouroboros
+7416: Destiny HERO - Dunker
+7417: Destiny HERO - Departed
+7418: Dark Horus
+7419: The Dark Creator
+7420: Dark Nephthys
+7422: Dark Crusader
+7424: Doomsday Horror
+7427: Gigaplant
+7428: Future Samurai
+7429: Vengeful Shinobi
+7430: The Immortal Bushi
+7431: Field-Commander Rahz
+7432: Gladiator Beast Darius
+7435: Cannon Soldier MK-2
+7436: The Calculator
+7437: Sea Koala
+7438: Blue Thunder T-45
+7439: Magnetic Mosquito
+7441: Neo-Spacian Twinkle Moss
+7442: Elemental HERO Storm Neos
+7443: Rainbow Neos
+7444: Rainbow Veil
+7445: Super Polymerization
+7447: Instant Neo Space
+7449: Spell Chronicle
+7450: Dimension Explosion
+7451: Cybernetic Zone
+7452: The Beginning of the End
+7454: Fires of Doomsday
+7455: Unleash Your Power!
+7456: Chain Summoning
+7457: Acidic Downpour
+7461: Dark World Grimoire
+7462: Rainbow Path
+7463: Rainbow Life
+7464: Sinister Seeds
+7465: Hate Buster
+7467: Alchemy Cycle
+7469: Dark Spirit Art - Greed
+7471: Escape from the Dark Dimension
+7472: Gemini Trap Hole
+7474: All-Out Attacks
+7477: Cry Havoc!
+7478: Transmigration Break
+7479: Fine
+7480: Gladiator Beast Octavius
+7484: Dragon Ice
+7485: Tongue Twister
+7486: Skreech
+7487: Royal Firestorm Guards
+7488: Veil of Darkness
+7489: Security Orb
+7492: Card Ejector
+7494: Assault Armor
+7495: Evil Blast
+7498: Ice Queen
+7508: The Melody of Awakening Dragon
+7517: Dimensional Alchemist
+7518: Samsara Kaiser
+7519: D.D.R. - Different Dimension Reincarnation
+7520: By Order of the Emperor
+7522: Evil Dragon Ananta
+7527: Blizzed, Defender of the Ice Barrier
+7528: Blizzard Warrior
+7530: Mist Valley Thunderbird
+7533: Flamvell Dragnov
+7536: X-Saber Axel
+7539: Commander Gottoms, Swordmaster
+7540: Ally of Justice Clausolas
+7541: Ally of Justice Garadholg
+7542: Ally of Justice Rudra
+7543: Worm Apocalypse
+7544: Worm Barses
+7545: Worm Cartaros
+7546: Worm Dimikles
+7547: Worm Erokin
+7550: Flamvell Uruquizas
+7554: Detonate
+7555: Berserker Crush
+7556: Evolution Burst
+7558: Gaia Plate the Earth Giant
+7560: Tethys, Goddess of Light
+7563: Darknight Parshath
+7564: Deepsea Macrotrema
+7566: Golden Flying Fish
+7567: Prime Material Dragon
+7570: Allure of Darkness
+7575: Cross Porter
+7576: Miracle Flipper
+7577: Destiny HERO - Dread Servant
+7579: Jinzo - Returner
+7580: Jinzo - Lord
+7591: Jain, Lightsworn Paladin
+7592: Lyla, Lightsworn Sorceress
+7593: Garoth, Lightsworn Warrior
+7596: Wulf, Lightsworn Beast
+7597: Celestia, Lightsworn Angel
+7598: Gragonith, Lightsworn Dragon
+7600: Dark Valkyria
+7602: Unifrog
+7603: Batteryman Charger
+7604: Batteryman Industrial Strength
+7605: Batteryman Micro-Cell
+7606: Goblin Recon Squad
+7608: Diskblade Rider
+7609: Golden Ladybug
+7610: DUCKER Mobile Cannon
+7612: Simorgh, Bird of Ancestry
+7613: Cloudian - Storm Dragon
+7614: Phantom Dragon
+7615: Destiny End Dragoon
+7616: Ultimate Ancient Gear Golem
+7618: Hero Mask
+7620: Demise of the Land
+7621: D - Formation
+7622: Spell Gear
+7623: Cup of Ace
+7626: Realm of Light
+7627: Wetlands
+7628: Quick Charger
+7630: Light of Redemption
+7635: Golden Bamboo Sword
+7636: Limit Reverse
+7638: Rainbow Gravity
+7639: D - Fortune
+7643: Light Spiral
+7644: Glorious Illusion
+7645: Destruction Jammer
+7648: Gladiator Lash
+7649: Raging Cloudian
+7650: Sanguine Swamp
+7653: Dice Try!
+7660: Maiden of Macabre
+7661: Hanewata
+7662: Nimble Musasabi
+7663: Oyster Meister
+7664: Dharc the Dark Charmer
+7666: Gigantic Cephalotus
+7667: Nettles
+7669: Horseytail
+7671: Miracle Fertilizer
+7675: Twin-Barrel Dragon
+7677: Izanami
+7680: Sword of Kusanagi
+7681: Orb of Yasaka
+7682: Mirror of Yata
+7684: Tune Warrior
+7685: Water Spirit
+7686: Sonic Chick
+7687: Junk Synchron
+7688: Speed Warrior
+7691: Synchro Boost
+7694: Scrap-Iron Scarecrow
+7696: Junk Warrior
+7697: Gaia Knight, the Force of Earth
+7700: Nitro Synchron
+7701: Quillbolt Hedgehog
+7703: Shield Warrior
+7713: Gonogo
+7715: Doctor Cranium
+7720: Telekinetic Shocker
+7721: Destructotron
+7722: Gladiator Beast Equeste
+7725: Kunoichi
+7727: Dark Hunter
+7729: Yamato-no-Kami
+7730: Silent Strider
+7733: Nitro Warrior
+7734: Stardust Dragon
+7735: Red Dragon Archfiend
+7736: Goyo Guardian
+7737: Magical Android
+7739: Fighting Spirit
+7740: Domino Effect
+7741: Junk Barrage
+7744: Lightwave Tuning
+7745: Psi-Station
+7749: Lightsworn Sabre
+7750: Unstable Evolution
+7751: Recycling Batteries
+7754: Graceful Revival
+7755: Defense Draw
+7756: Remote Revenge
+7757: Spacegate
+7758: Synchro Deflector
+7760: Machine Lord Ür
+7766: Judgment of Thunder
+7767: Psychic Rejuvenation
+7768: Fish Depth Charge
+7769: Needlebug Nest
+7782: Alector, Sovereign of Birds
+7789: Psychic Overload
+7796: Aurkus, Lightsworn Druid
+7798: Dark General Freed
+7799: Magical Exemplar
+7800: Maniacal Servant
+7801: Flame Spirit Ignis
+7802: Super-Ancient Dinobeast
+7807: Genex Controller
+7808: Genex Undine
+7809: Genex Power Planner
+7810: Genex Searcher
+7811: Genex Worker
+7813: Royal Knight of the Ice Barrier
+7814: Numbing Grub in the Ice Barrier
+7815: Mist Valley Watcher
+7816: Mist Condor
+7818: Flamvell Poun
+7821: X-Saber Anu Piranha
+7822: X-Saber Galahad
+7826: Ally of Justice Thousand Arms
+7827: Ally of Justice Unknown Crusher
+7828: Worm Falco
+7829: Worm Gulse
+7830: Worm Hope
+7832: Worm Jetelikpse
+7833: Worm King
+7834: Hydro Genex
+7835: X-Saber Wayne
+7836: Ally of Justice Light Gazer
+7839: Genex Neutron
+7840: Ally of Justice Cyclone Creator
+7841: Road Synchron
+7842: Goblin Decoy Squad
+7843: Jade Knight
+7844: Tree Otter
+7845: Koalo-Koala
+7850: The White Stone of Legend
+7852: Cyber Shark
+7853: Hand of the Six Samurai
+7854: Red-Eyes Zombie Dragon
+7856: Paladin of the Cursed Dragon
+7857: Zombie World
+7865: Counselor Lily
+7866: Grapple Blocker
+7869: Healing Wave Generator
+7873: Copy Plant
+7874: Morphtronic Celfon
+7875: Morphtronic Magnen
+7876: Morphtronic Datatron
+7877: Morphtronic Boomboxen
+7878: Morphtronic Cameran
+7879: Morphtronic Radion
+7880: Morphtronic Clocken
+7881: Gadget Hauler
+7882: Gadget Driver
+7889: Power Injector
+7890: Storm Caller
+7892: Botanical Girl
+7896: Tiger Dragon
+7898: Black Rose Dragon
+7900: Psychic Lifetrancer
+7901: Card Rotator
+7902: Seed of Deception
+7905: Factory of 100 Machines
+7906: Morphtronic Accelerator
+7907: Morphtronic Cord
+7908: Morphtronic Engine
+7911: Teleport
+7912: Psychokinesis
+7913: Fragrance Storm
+7914: The World Tree
+7917: Omega Goggles
+7918: Battle Mania
+7921: Synchro Strike
+7923: Revival Gift
+7924: Lineage of Destruction
+7925: Doppelganger
+7926: Morphtransition
+7927: Morphtronic Monitron
+7930: Bamboo Scrap
+7931: Plant Food Chain
+7933: DNA Checkup
+7942: Parallel World Fusion
+7944: Naturia Beetle
+7945: Naturia Rock
+7946: Naturia Guardian
+7948: Genex Furnace
+7949: Genex Gaia
+7951: Genex Turbine
+7952: Genex Doctor
+7953: Genex Solar
+7954: Dai-sojo of the Ice Barrier
+7955: Medium of the Ice Barrier
+7957: Mist Valley Executor
+7958: Flamvell Grunika
+7960: Ally Mind
+7961: Ally of Justice Nullfier
+7962: Ally of Justice Searcher
+7963: Ally of Justice Enemy Catcher
+7964: Ally of Justice Thunder Armor
+7965: Ally of Justice Cosmic Gateway
+7966: Worm Linx
+7967: Worm Millidith
+7968: Worm Noble
+7972: Geo Genex
+7982: Red-Eyes Wyvern
+7984: White Night Queen
+7985: Fortress Warrior
+7988: Give and Take
+7989: Limiter Overload
+8003: Rose Tentacles
+8005: Debris Dragon
+8006: Hyper Synchron
+8012: Blackwing - Bora the Spear
+8014: Twilight Rose Knight
+8015: Morphtronic Boarden
+8016: Morphtronic Slingen
+8024: Lifeforce Harmonizer
+8027: Scanner
+8029: Desert Protector
+8030: Cross-Sword Beetle
+8031: Bee List Soldier
+8032: Hydra Viper
+8033: Alien Overlord
+8043: Raptor Wing Strike
+8044: Morphtronic Rusty Engine
+8045: Morphtronic Map
+8053: Super Solar Nutrient
+8054: Six Scrolls of the Samurai
+8056: Arcane Barrier
+8057: Mysterious Triangle
+8059: Spirit Force
+8061: Shining Silver Force
+8064: Ebon Arrow
+8065: Ivy Shackles
+8067: Morphtronic Forcefield
+8068: Morphtronic Mix-up
+8072: Supernatural Regeneration
+8073: Trojan Gladiator Beast
+8078: Seed of Flame
+8080: Overdrive Teleporter
+8081: Rai-Jin
+8082: Rai-Mei
+8083: Gladiator Beast Retiari
+8085: Tempest Magician
+8086: Treacherous Trap Hole
+8090: Ancient Fairy Dragon
+8092: Fabled Lurrie
+8094: Fabled Gallabas
+8099: Jurrac Tyrannus
+8100: Naturia Antjaw
+8101: Naturia Spiderfang
+8103: Naturia Cosmobeet
+8104: Genex Blastfan
+8106: Genex Army
+8111: Ally of Justice Reverse Break
+8112: Ally of Justice Unlimiter
+8113: Worm Opera
+8114: Worm Prince
+8116: Worm Rakuyeh
+8118: Jurrac Giganoto
+8119: Naturia Leodrake
+8120: Windmill Genex
+8122: Elemental HERO Gaia
+8126: Elemental HERO Ice Edge
+8132: Endymion, the Master Magician
+8133: Disenchanter
+8134: Defender, the Magical Knight
+8135: Magical Citadel of Endymion
+8136: Spell Power Grasp
+8137: Power Tool Dragon
+8139: Dark Voltanis
+8140: Prime Material Falcon
+8141: Bone Crusher
+8142: Alien Kid
+8143: Totem Dragon
+8145: Submarine Frog
+8150: Legacy of a HERO
+8154: Rockstone Warrior
+8155: Level Warrior
+8157: Dark Verger
+8158: Phoenixian Seed
+8159: Phoenixian Cluster Amaryllis
+8161: Evil Thorn
+8162: Blackwing - Blizzard the Far North
+8163: Blackwing - Shura the Blue Flame
+8164: Blackwing - Kalut the Moon Shadow
+8165: Blackwing - Elphin the Raven
+8166: Morphtronic Remoten
+8167: Morphtronic Videon
+8168: Morphtronic Scopen
+8171: Earthbound Immortal Aslla piscu
+8172: Earthbound Immortal Ccapac Apu
+8173: Koa'ki Meiru Valafar
+8174: Koa'ki Meiru Powerhand
+8177: Koa'ki Meiru Ice
+8180: Minoan Centaur
+8181: Reinforced Human Psychic Borg
+8182: Master Gig
+8184: Gigastone Omega
+8186: Spined Gillman
+8187: Deep Sea Diva
+8188: Mermaid Archer
+8189: Lava Dragon
+8190: Vanguard of the Dragon
+8193: Blackwing Armed Wing
+8195: Trident Dragion
+8197: One for One
+8199: Thorn of Malice
+8200: Magic Planter
+8201: Wonder Clover
+8202: Against the Wind
+8203: Black Whirlwind
+8204: Junk Box
+8205: Double Tool C&D
+8206: Morphtronic Repair Unit
+8207: Iron Core of Koa'ki Meiru
+8208: Iron Core Immediate Disposal
+8209: Urgent Synthesis
+8210: Psychic Path
+8211: Natural Tune
+8212: Supremacy Berry
+8213: Forbidden Chalice
+8214: Calming Magic
+8218: Overdoom Line
+8220: Delta Crow - Anti Reverse
+8221: Level Retuner
+8222: Fake Feather
+8224: Morphtronic Bind
+8227: Attack of the Cornered Rat
+8229: Bone Temple Block
+8232: Mirror of Oaths
+8233: Fabled Urustos
+8235: Fabled Topi
+8236: Fabled Soulkius
+8238: Jurrac Ptera
+8239: Jurrac Iguanon
+8242: Naturia Dragonfly
+8243: Naturia Sunflower
+8248: R-Genex Crusher
+8249: R-Genex Magma
+8250: Shock Troops of the Ice Barrier
+8251: Samurai of the Ice Barrier
+8253: Caravan of the Ice Barrier
+8254: Worm Solid
+8255: Worm Tentacles
+8256: Worm Ugly
+8257: Worm Victory
+8258: Fabled Leviathan
+8259: Jurrac Velphito
+8263: Snowman Eater
+8265: Ojama Blue
+8266: Ojama Country
+8271: Skull Conductor
+8276: Court of Justice
+8281: Pride of the Weak
+8292: Kuribon
+8293: Sunny Pixie
+8294: Sunlight Unicorn
+8295: Blackwing - Mistral the Silver Shield
+8297: Blackwing - Fane the Steel Chain
+8298: Morphtronic Magnen Bar
+8309: Koa'ki Meiru Boulder
+8310: Koa'ki Meiru Crusader
+8314: Scary Moth
+8316: Armed Sea Hunter
+8317: Divine Dragon Aquabizarre
+8319: Shark Cruiser
+8320: Armored Axon Kicker
+8321: Genetic Woman
+8324: White Potan
+8325: Minefieldriller
+8329: Ancient Crimson Ape
+8330: Falchionβ
+8335: Release Restraint Wave
+8337: Advance Draw
+8338: Ancient Forest
+8340: Spirit Burner
+8342: Core Compression
+8343: Core Blaster
+8344: Solidarity
+8345: Hydro Pressure Cannon
+8346: Water Hazard
+8347: Brain Research Lab
+8348: Saber Slash
+8349: Sword of Sparkles
+8351: Ancient Leaf
+8352: Fossil Dig
+8353: Skill Successor
+8356: Fairy Wind
+8361: Damage Translation
+8364: Iron Core Luster
+8365: Battle of the Elements
+8366: Aegis of the Ocean Dragon Lord
+8367: Psychic Soul
+8369: At One With the Sword
+8370: A Major Upset
+8373: Immortal Ruler
+8374: Hardened Armed Dragon
+8379: Overwhelm
+8390: Dragunity Tribus
+8393: Fabled Dyf
+8395: Fabled Oltro
+8396: Jurrac Titano
+8397: Jurrac Guaiba
+8398: Jurrac Stauriko
+8399: Naturia Horneedle
+8401: Naturia Hydrangea
+8402: R-Genex Accelerator
+8404: R-Genex Ultimum
+8405: Spellbreaker of the Ice Barrier
+8406: General Grunard of the Ice Barrier
+8410: Worm Warlord
+8413: Worm Zero
+8415: Fabled Ragin
+8418: Lancer Lindwurm
+8431: Phoenix Gearfried
+8432: Evocator Chevalier
+8433: Featherizer
+8434: Gemini Soldier
+8435: Supervise
+8438: Max Warrior
+8439: Quickdraw Synchron
+8442: Regulus
+8451: Ground Spider
+8462: Koa'ki Meiru Sea Panther
+8464: Tuned Magician
+8466: Woodland Archer
+8467: Knight of the Red Lotus
+8468: Energy Bravery
+8469: Swap Frog
+8470: Lord British Space Fighter
+8474: Divine Grace - Northwemko
+8476: Blackwing - Silverwind the Ascendant
+8478: Black Brutdrago
+8479: Explosive Magician
+8483: Attack Pheromones
+8484: Molting Escape
+8488: Iron Core Armor
+8489: Herculean Power
+8490: Gemini Spark
+8491: Ritual of Grace
+8492: Preparation of Rites
+8493: Moray of Greed
+8495: Raging Mad Plants
+8497: Faustian Bargain
+8498: Slip Summon
+8499: Synchro Barrier
+8503: Spider Egg
+8504: Wolf in Sheep's Clothing
+8507: Limit Impulse
+8509: Nega-Ton Corepanel
+8510: Gemini Counter
+8511: Gemini Booster
+8512: Ritual Buster
+8513: Stygian Dirge
+8514: Seal of Wickedness
+8515: Appointer of the Red Lotus
+8517: Warm Worm
+8518: Worm Bait
+8519: Regretful Rebirth
+8521: XX-Saber Gardestrike
+8522: XX-Saber Fulhelmknight
+8523: Koa'ki Meiru Ghoulungulate
+8525: Psychic Emperor
+8526: Card Guard
+8528: Pseudo Space
+8543: Elemental HERO Flash
+8550: Genex Ally Powercell
+8551: Genex Ally Changer
+8553: Genex Ally Solid
+8554: The Fabled Chawa
+8555: The Fabled Catsith
+8556: The Fabled Cerburrel
+8557: The Fabled Ganashia
+8566: Jurrac Herra
+8569: Naturia Strawberry
+8572: Sacred Spirit of the Ice Barrier
+8573: General Raiho of the Ice Barrier
+8578: Naturia Landoise
+8581: Junk Archer
+8583: Tuner's Barrier
+8585: Closed Forest
+8586: Roaring Earth
+8594: Koa'ki Meiru Maximus
+8595: Shire, Lightsworn Spirit
+8596: Rinyan, Lightsworn Rogue
+8597: Yellow Baboon, Archer of the Forest
+8598: Gemini Scorpion
+8599: Metabo-Shark
+8608: Miracle's Wake
+8612: Unicycular
+8613: Bicular
+8614: Tricular
+8616: Ogre of the Scarlet Sorrow
+8623: Witch of the Black Rose
+8624: Rose Fairy
+8636: Koa'ki Meiru Urnight
+8637: XX-Saber Garsem
+8638: Gravekeeper's Visionary
+8640: Black Potan
+8646: Cyber Dragon Zwei
+8647: Oilman
+8649: Djinn Prognosticator of Rituals
+8650: Garlandolf, King of Destruction
+8655: XX-Saber Hyunlei
+8657: Variety Comes Out
+8659: Advance Force
+8661: Temple of the Sun
+8662: Rocket Pilder
+8663: Break! Draw!
+8664: Power Pickaxe
+8666: Iron Core Specimen Lab
+8667: Gravekeeper's Stele
+8668: Machine Assembly Line
+8669: Ritual of Destruction
+8670: Ascending Soul
+8671: Ritual Cage
+8672: Pot of Benevolence
+8676: Nature's Reflection
+8678: Meteor Flare
+8680: Destruct Potion
+8685: Machine King - 3000 B.C.
+8687: Forgotten Temple of the Deep
+8691: Inverse Universe
+8694: Machina Peacekeeper
+8695: Scrap Recycler
+8696: Machina Armored Unit
+8698: Lion Alligator
+8700: Transforming Sphere
+8702: Spawn Alligator
+8705: Neo Flamvell Shaman
+8706: Neo Flamvell Garuda
+8707: Neo Flamvell Sabre
+8709: Genex Ally Birdman
+8710: Genex Ally Bellflame
+8712: Genex Ally Reliever
+8714: The Fabled Kokkator
+8715: Fabled Dianaira
+8723: Naturia White Oak
+8724: Strategist of the Ice Barrier
+8725: Secret Guards of the Ice Barrier
+8726: General Gantala of the Ice Barrier
+8734: The Atmosphere
+8735: Junk Blader
+8742: Armored Bee
+8754: Alchemist of Black Spells
+8757: Dragonic Guard
+8758: The Dragon Dwelling in the Deep
+8759: Djinn Disserere of Rituals
+8761: Gravekeeper's Priestess
+8762: Core Transport Unit
+8777: Blackwing - Ghibli the Searing Wind
+8778: Blackwing - Gust the Backblast
+8779: Blackwing - Breeze the Zephyr
+8780: Changer Synchron
+8781: Card Breaker
+8782: Second Booster
+8792: Revival Rose
+8793: Morphtronic Vacuumen
+8794: Bird of Roses
+8795: Spore
+8796: Fairy Archer
+8797: Biofalcon
+8798: Cherry Inmato
+8800: Lyna the Light Charmer
+8802: Wattfox
+8804: Koa'ki Meiru Sandman
+8806: Delta Tri
+8807: Trigon
+8810: Batteryman AAA
+8814: Hunter of Black Feathers
+8815: Black-Winged Dragon
+8818: Splendid Rose
+8820: Black-Winged Strafe
+8821: Cards for Black Feathers
+8824: Into the Void
+8826: Pyramid of Wonders
+8827: The Fountain in the Sky
+8828: Dragon Laser
+8829: Wattcube
+8831: Worm Call
+8832: Magic Triangle of the Ice Barrier
+8833: Koa'ki Meiru Initialize!
+8835: Forbidden Graveyard
+8836: Leeching the Light
+8839: Blackwing - Backlash
+8840: Blackwing - Bombardment
+8841: Black Thunder
+8845: Damage Gate
+8848: Assault Spirits
+8849: Blossom Bombardment
+8850: Morphtronics, Scramble!
+8851: Power Break
+8852: Koa'ki Meiru Shield
+8853: Crevice Into the Different Dimension
+8856: Danipon
+8858: Vampiric Koala
+8859: Wild Tornado
+8860: Junk Destroyer
+8863: Half Shut
+8866: Elemental HERO Neos Knight
+8891: Blizzard Princess
+8893: Gem-Knight Garnet
+8895: Gem-Knight Tourmaline
+8896: Gem-Knight Alexandrite
+8898: Gem-Merchant
+8899: Laval Miller
+8901: Laval Warrior
+8902: Prominence, Molten Swordsman
+8904: Kayenn, the Master Magma Blacksmith
+8905: Laval Burner
+8908: Vylon Vanguard
+8909: Vylon Charger
+8910: Vylon Soldier
+8911: Gem-Knight Ruby
+8913: Gem-Knight Topaz
+8918: Gem-Knight Fusion
+8919: Searing Fire Wall
+8920: Vylon Material
+8921: Gem-Enhancement
+8922: Molten Whirlwind Wall
+8932: Earthquake Giant
+8934: Dash Warrior
+8935: Damage Eater
+8936: A/D Changer
+8938: Playful Possum
+8946: Trident Warrior
+8948: Rhinotaurus
+8961: Amazoness Sage
+8962: Amazoness Trainee
+8963: Amazoness Queen
+8968: Final Psychic Ogre
+8976: Blind Spot Strike
+8977: Double Cyclone
+8981: Wattcine
+8983: Landoise's Luminous Moss
+8984: Amazoness Village
+8985: Amazoness Fighting Spirit
+8986: Unicorn Beacon
+8987: Beast Rage
+8992: Summoning Curse
+8994: Desperate Tag
+9000: Chain Whirlwind
+9003: Amazoness Willpower
+9004: Queen's Pawn
+9005: Beast Rising
+9006: Horn of the Phantom Beast
+9007: Paradox Fusion
+9009: Anti-Magic Prism
+9010: Chivalry
+9011: Light of Destruction
+9013: Junk Forward
+9022: Sergeant Electro
+9030: XX-Saber Boggart Knight
+9031: XX-Saber Darksoul
+9032: Saber Vault
+9033: Koa'ki Meiru Prototype
+9039: Akz, the Pumer
+9057: Phantom Magician
+9060: Rose Witch
+9062: Queen Angel of Roses
+9066: Mask Change
+9067: Masked HERO Goka
+9069: Masked HERO Vapor
+9074: Vision HERO Witch Raider
+9079: Mirror Ladybug
+9080: Reed Butterfly
+9081: Needle Soldier
+9087: Power Breaker
+9094: Blackwing - Abrolhos the Megaquake
+9095: Glow-Up Bulb
+9099: Karakuri Ninja mdl 339 "Sazank"
+9100: Karakuri Bushi mdl 6318 "Muzanichiha"
+9107: Naturia Cherries
+9108: Naturia Pumpkin
+9109: Naturia Stag Beetle
+9110: Dance Princess of the Ice Barrier
+9113: Anarchist Monk Ranshin
+9114: Delg the Dark Monarch
+9118: Formula Synchron
+9122: Tuning
+9123: Karakuri Showdown Castle
+9124: Golden Gearbox
+9125: Karakuri Anatomy
+9129: Barkion's Bark
+9132: Mirror of the Ice Barrier
+9135: Axe of Fools
+9137: Tokkosho of Ghost Destroying
+9138: White Elephant's Gift
+9139: Heat Wave
+9142: Blackback
+9143: Defenders Intersect
+9145: Blackwing - Boobytrap
+9146: Star Siphon
+9147: Half Counter
+9152: Exterio's Fang
+9154: Different Dimension Ground
+9159: Gishki Vanity
+9161: Gishki Chain
+9162: Gishki Ariel
+9166: Gusto Thunbolt
+9168: Caam, Serenity of Gusto
+9169: Windaar, Sage of Gusto
+9172: Steelswarm Gatekeeper
+9173: Steelswarm Caller
+9174: Steelswarm Mantis
+9177: Steelswarm Caucastag
+9178: Evigishki Mind Augus
+9181: Daigusto Eguls
+9182: Gishki Aquamirror
+9183: Contact with Gusto
+9184: First Step Towards Infestation
+9185: Aquamirror Meditation
+9186: Blessings for Gusto
+9187: Infestation Wave
+9196: Vision HERO Trinity
+9202: Scrap Archfiend
+9203: Amazoness Scouts
+9204: Naturia Pineapple
+9206: Dark Desertapir
+9207: Psychic Nightmare
+9209: Amazoness Heirloom
+9210: Amazoness Shamanism
+9211: Super Rush Recklessly
+9212: Gem-Knight Emerald
+9213: Vylon Ohm
+9229: Vision HERO Vyon
+9234: Boost Warrior
+9237: Big One Warrior
+9239: Synchro Gift
+9240: Card of Sacrifice
+9242: Blackwing - Kochi the Daybreak
+9243: Blackwing - Jetstream the Blue Sky
+9244: Blackwing - Zephyros the Elite
+9245: Black Feather Beacon
+9246: Black Return
+9274: The Despair Uranus
+9277: Archfiend Empress
+9278: Skull Meister
+9280: Spellstone Sorcerer Karood
+9282: Gravekeeper's Recruiter
+9290: Cards from the Sky
+9291: Divine Punishment
+9292: Cosmic Compass
+9295: D.D. Sprite
+9298: Blackwing - Boreas the Sharp
+9299: Blackwing - Brisote the Tailwind
+9340: Six Strike - Triple Impact
+9342: Temple of the Six
+9344: Karakuri Gold Dust
+9346: Stardust Shimmer
+9349: Foolish Return
+9351: Vylon Matter
+9355: Zero Force
+9356: Blackboost
+9362: The Golden Apples
+9366: Shien's Scheme
+9368: Xing Zhen Hu Replica
+9369: Tyrant's Tirade
+9370: Tiki Curse
+9371: Tiki Soul
+9372: Gem-Knight Crystal
+9374: 3787Liosoc
+
+9378: Vylon Prism
+9379: Vylon Hept
+9380: Gishki Reliever
+9381: Gishki Noellia
+9382: Gusto Squirro
+9383: Reeze, Whirlwind of Gusto
+9384: Steelswarm Genome
+9385: Steelswarm Sentinel
+9387: Steelswarm Longhorn
+9388: Steelswarm Hercules
+9389: Evigishki Tetrogre
+9390: Gem-Knight Citrine
+9391: Gem-Knight Prismaura
+9392: Laval Stennon
+9396: Vylon Component
+9398: Forbidden Arts of the Gishki
+9399: Pyroxene Fusion
+9400: Infestation Ripples
+9401: Infestation Tool
+9402: Barbaroid, the Ultimate Battle Machine
+9409: Rose Lover
+9420: Fallen Angel of Roses
+9430: The Tripper Mercury
+9434: Machina Cannon
+9437: Blackwing - Jin the Rain Shadow
+9439: Elemental HERO Nova Master
+9440: Naturia Eggplant
+9443: Gishki Beast
+9444: X-Saber Souza
+9448: Blue Rose Dragon
+9449: Vortex the Whirlwind
+9451: Shien's Daredevil
+9452: Karakuri Muso mdl 818 "Haipa"
+9454: Chaos Hunter
+9458: Six Strike - Thunder Blast
+9459: Blackwing - Pinaki the Waxing Moon
+9460: Blackwing - Kris the Crack of Dawn
+9461: Blackwing - Gladius the Midnight Sun
+9467: The Grand Jupiter
+9472: Junk Servant
+9473: Unknown Synchron
+9474: Salvage Warrior
+9476: Mystic Piper
+9479: Blackwing - Hillen the Tengu-wind
+9480: Blackwing - Kogarashi the Wanderer
+9481: Morphtronic Lantron
+9482: Morphtronic Staplen
+9496: Silent Psychic Wizard
+9497: Serene Psychic Witch
+9502: Karakuri Ninja mdl 7749 "Nanashick"
+9503: Scrap Kong
+9505: Gladiator Beast Tygerius
+9508: Junk Berserker
+9515: Overmind Archfiend
+9526: ESP Amplifier
+9528: Shien's Dojo
+9529: Runaway Karakuri
+9530: Contact with the Aquamirror
+9532: Out of the Blue
+9535: Power-Up Adapter
+9542: Psychic Reactor
+9543: Brain Hazard
+9547: Debunk
+9548: Sealing Ceremony of Mokuton
+9550: Localized Tornado
+9551: W Nebula Meteorite
+9555: Vampire Dragon
+9565: Feedback Warrior
+9566: Speed Bird
+9567: Key Man the Key Warrior
+9568: Tenshin
+9569: Shine Knight
+9570: Blustering Winds
+9571: Harmonic Waves
+9579: Doom Donuts
+9581: Rage of the Deep Sea
+9582: Gem-Knight Obsidian
+9583: Gem-Knight Iolite
+9584: Gem-Knight Amber
+9587: Laval Blaster
+9588: Vylon Pentachloro
+9589: Vylon Tesseract
+9590: Vylon Stigma
+9592: Gishki Emilia
+9593: Gishki Mollusk
+9594: Gusto Falco
+9595: Kamui, Hope of Gusto
+9596: Musto, Oracle of Gusto
+9598: Gem-Knight Amethyst
+9599: Lavalval Dragun
+9600: Daigusto Falcos
+9606: Particle Fusion
+9607: Vylon Polytope
+9610: Aquamirror Illusion
+9611: Whirlwind of Gusto
+9624: Drill Barnacle
+9625: Jawsman
+9632: Wind-Up Juggler
+9636: Flyfang
+9637: Skystarray
+9639: Wingtortoise
+9640: Space-Time Police
+9641: Time Escaper
+9645: Gusto Codor
+9647: Geargiano
+9648: Poki Draco
+9649: Master of the Flaming Dragonswords
+9650: Perditious Puppeteer
+9655: Milla the Temporal Magician
+9662: Wonder Wand
+9667: Crashbug Road
+9668: Infected Mail
+9672: Fish and Kicks
+9675: Quill Pen of Gulldos
+9679: Peeking Goblin
+9680: Asleep at the Switch
+9683: Damage Vaccine Ω MAX
+9685: Underworld Egg Clutch
+9687: Bright Future
+9689: Burgeoning Whirlflame
+9690: Treaty on Uniform Nomenclature
+9692: United Front
+9693: Curse of the Circle
+9696: Raigeki Bottle
+9697: Gravelstorm
+9700: Dodger Dragon
+9703: Psi-Beast
+9704: Gladiator Beast Essedarii
+9705: Gladiator Taming
+9706: Full House
+9707: Psychic Shockwave
+9713: Snoww, Unlight of Dark World
+9714: Ceruli, Guru of Dark World
+9715: The Gates of Dark World
+9720: Rabidragon
+9722: Stinging Swordsman
+9724: Acorno
+9725: Pinecono
+9728: Needle Sunfish
+9730: Daybreaker
+9732: Plasma Ball
+9733: Photon Cerberus
+9741: Wind-Up Knight
+9743: Wind-Up Bat
+9745: D.D. Telepon
+9747: Naturia Marron
+9749: Senior Silver Ninja
+9750: Rodenut
+9751: Fenghuang
+9752: Tribe-Shocking Virus
+9753: Goblin Pothole Squad
+9766: Cross Attack
+9768: Photon Veil
+9769: Photon Lead
+9770: Photon Booster
+9774: Extra Gate
+9775: Shard of Greed
+9776: Murmur of the Forest
+9777: Tri-Wight
+9780: Poisonous Winds
+9783: Damage Diet
+9784: Copy Knight
+9785: Mirror Mail
+9786: Fish Rain
+9787: Icy Crevasse
+9792: Champion's Vigilance
+9793: Darklight
+9795: Sound the Retreat!
+9798: Sealing Ceremony of Suiton
+9799: Sonic Warrior
+9803: Gem-Knight Sardonyx
+9804: Laval Phlogis
+9805: Gishki Avance
+9806: Gusto Griffin
+9813: Evilswarm Heliotrope
+9814: Evilswarm Zahak
+9815: Evilswarm Ketos
+9816: Evilswarm O'lantern
+9819: Evigishki Levianima
+9820: Gem-Knight Zirconia
+9828: Gishki Photomirror
+9830: Fragment Fusion
+9831: Dust Storm of Gusto
+9835: Triple Star Trion
+9841: Sea Lancer
+9842: Piercing Moray
+9843: Lost Blue Breaker
+9847: Fish and Swaps
+9848: Painful Return
+9863: Alexandrite Dragon
+9867: D-Boyz
+9868: Latinum, Exarch of Dark World
+9872: Dark Smog
+9887: Flame Armor Ninja
+9888: Air Armor Ninja
+9889: Aqua Armor Ninja
+9890: Earth Armor Ninja
+9892: Inzektor Ant
+9893: Inzektor Centipede
+9895: Inzektor Giga-Mantis
+9904: Masked Ninja Ebisu
+9905: Upstart Golden Ninja
+9906: Chow Len the Prophet
+9908: Dark Blade the Captain of the Evil World
+9909: Trance Archfiend
+9910: Divine Dragon Apocralyph
+9911: Darkstorm Dragon
+9912: Numen erat Testudo
+9921: Full-Force Strike
+9923: Double Defender
+9925: Armor Ninjitsu Art of Alchemy
+9928: Inzektor Sword - Zektkaliber
+9932: Dark Mambele
+9933: Creeping Darkness
+9934: Shrine of Mist Valley
+9937: Dicephoon
+9944: Inzektor Orb
+9945: Variable Form
+9951: Over Capacity
+9954: Sealing Ceremony of Katon
+9955: Lightpulsar Dragon
+9956: Darkflare Dragon
+9957: Eclipse Wyvern
+9958: Chaos Zone
+9959: Dragon's Rebirth
+9961: Chachaka Archer
+9966: Photon Wyvern
+9967: Rosaria, the Stately Fallen Angel
+9969: Gravity Warrior
+9975: Phoenix Beast Gairuda
+9981: Gem-Knight Lazuli
+9982: Gishki Natalia
+9994: Evilswarm Salamandra
+9998: Gishki Psychelone
+10000: Gem-Knight Seraphinite
+10001: Gem-Knight Master Diamond
+10008: Iron Call
+10014: Tour Bus From the Underworld
+10016: Interplanetarypurplythorny Dragon
+10017: Inzektor Hopper
+10023: Ninjitsu Art of Duplication
+10024: Wattaildragon
+10025: Hieratic Seal of the Sun Dragon Overlord
+10031: Hammer Shark
+10032: Hammer Bounzer
+10033: Blade Bounzer
+10034: Phantom Bounzer
+10035: Morpho Butterspy
+10036: Swallowtail Butterspy
+10037: Moonlit Papillon
+10041: Hieratic Dragon of Nuit
+10042: Hieratic Dragon of Gebeb
+10047: Hieratic Dragon of Asar
+10048: Hieratic Dragon of Sutekh
+10052: Inzektor Ladybug
+10053: Inzektor Earwig
+10054: Inzektor Giga-Cricket
+10056: Lightray Daedalus
+10059: Lady of D.
+10062: Flame Tiger
+10063: Nomadic Force
+10074: Bound Wand
+10077: Berserk Scales
+10080: Hieratic Seal of Supremacy
+10083: Final Inzektion
+10086: That Wacky Magic!
+10087: Constellar Belt
+10088: Storm
+10089: Nitwit Outwit
+10090: Gamushara
+10091: Commander of Swords
+10098: Return
+10100: Spiritual Light Art - Hijiri
+10101: Sealing Ceremony of Raiton
+10102: Aquamirror Cycle
+10103: Double Payback
+10104: Hazy Flame Hyppogrif
+10105: Alpacaribou, Mystical Beast of the Forest
+10106: Eco, Mystical Spirit of the Forest
+10107: Beetron
+10108: Snowdust Dragon
+10109: Snow Dragon
+10110: Uminotaurus
+10115: Noble Knight Artorigus
+10116: Ancient Dragon
+10117: Hieratic Seal of the Dragon King
+10119: Lightray Grepher
+10121: Draconnection
+10122: Trial and Tribulation
+10123: Hieratic Seal From the Ashes
+10131: Trance the Magic Swordsman
+10145: Spellbook Magician of Prophecy
+10148: Strength of Prophecy
+10149: Charioteer of Prophecy
+10151: Madolche Mewfeuille
+10153: Madolche Chouxvalier
+10155: Madolche Butlerusk
+10156: Madolche Puddingcess
+10157: Geargiano Mk-II
+10158: Geargiaccelerator
+10159: Geargiarsenal
+10161: Uniflora, Mystical Beast of the Forest
+10163: Silver Sentinel
+10164: Dust Knight
+10165: Block Golem
+10166: Atlantean Attack Squad
+10169: Three Thousand Needles
+10187: Spellbook of Secrets
+10188: Spellbook of Power
+10189: Spellbook of Life
+10190: Spellbook of Wisdom
+10191: Madolche Chateau
+10192: Where Arf Thou?
+10195: Cold Feet
+10196: Impenetrable Attack
+10200: Madolche Lesson
+10201: Madolche Waltz
+10202: Madolche Tea Break
+10205: Turnabout
+10206: Void Trap Hole
+10207: Three of a Kind
+10209: Rebound
+10210: Lucky Punch
+10211: Papa-Corn
+10213: Miracle Contact
+10214: Advanced Dark
+10215: Thunder Sea Horse
+10218: Poseidra, the Atlantean Dragon
+10220: Atlantean Marksman
+10221: Atlantean Heavy Infantry
+10226: Mogmole
+10229: Deep Sweeper
+10232: Planet Pathfinder
+10237: Mermail Abyssgunde
+10238: Mermail Abysshilde
+10239: Mermail Abyssturge
+10240: Mermail Abysspike
+10242: Mermail Abyssmegalo
+10245: Justice of Prophecy
+10247: Madolche Cruffssant
+10249: Madolche Messengelato
+10250: Abyss Warrior
+10251: Snowman Creator
+10252: Fishborg Planter
+10254: Shore Knight
+10255: Mecha Sea Dragon Plesion
+10256: Metallizing Parasite - Soltite
+10273: One-Shot Wand
+10274: Different Dimension Deepsea Trench
+10276: Gravity Blaster
+10279: Lemuria, the Forgotten City
+10280: Spellbook of Eternity
+10281: Spellbook of Fate
+10283: Madolche Ticket
+10284: Forbidden Dress
+10287: The Humble Sentry
+10290: Heroic Gift
+10293: Abyss-squall
+10296: Madolchepalooza
+10298: Magic Deflector
+10299: That Wacky Alchemy!
+10300: Cash Back
+10302: Retort
+10304: Pahunder
+10305: Mahunder
+10306: Sishunder
+10309: Mono Synchron
+10310: Steam Synchron
+10311: Noble Knight Gawayn
+10312: Prophecy Destroyer
+10313: Lightray Madoor
+10314: Blue Dragon Ninja
+10315: Imairuka
+10317: Noble Arms - Gallatin
+10318: Spellbook Library of the Crescent
+10319: Advance Zone
+10320: Ninjitsu Art of Shadow Sealing
+10329: Brotherhood of the Fire Fist - Spirit
+10346: Fire King Avatar Barong
+10347: Fire King Avatar Kirin
+10350: Ignoble Knight of Black Laundsallyn
+10352: Red Dragon Ninja
+10353: Slushy
+10356: Noble Arms - Arfeudutyr
+10357: Spellbook Library of the Heliosphere
+10359: Attack the Moon!
+10362: Bacon Saver
+10363: Amarylease
+10381: Brotherhood of the Fire Fist - Raven
+10382: Brotherhood of the Fire Fist - Gorilla
+10384: Brotherhood of the Fire Fist - Dragon
+10385: Brotherhood of the Fire Fist - Snake
+10386: Brotherhood of the Fire Fist - Swallow
+10387: Hazy Flame Cerbereus
+10388: Hazy Flame Griffin
+10389: Hazy Flame Sphynx
+10390: Hazy Flame Peryton
+10392: Mermail Abyssnose
+10393: Mermail Abyssleed
+10394: Fool of Prophecy
+10395: Reaper of Prophecy
+10396: Brushfire Knight
+10399: Pyrorex the Elemental Lord
+10401: Leotaur
+10417: Fire Formation - Tensu
+10420: Abyss-scale of Cetus
+10421: Spellbook of the Master
+10422: The Big Cattle Drive
+10424: Quick Booster
+10425: After the Storm
+10426: Goblin Circus
+10427: Dimension Gate
+10430: Fire Formation - Tensen
+10431: Fire Formation - Tenken
+10432: Ultimate Fire Formation - Seito
+10433: Hazy Glory
+10435: Spikeshield with Chain
+10438: Jurrac Impact
+10439: Dice-nied
+10446: Fire King Avatar Yaksha
+10459: Kidmodo Dragon
+10465: Kujakujaku
+10468: Noble Arms - Caliburn
+10469: Noble Knight Medraut
+10470: Hazy Flame Mantikor
+10472: Bonfire Colossus
+10476: Spell Wall
+10477: Kickfire
+10485: Dotedotengu
+10494: Aurora Wing
+10502: Mecha Phantom Beast Megaraptor
+10504: Mecha Phantom Beast Blackfalcon
+10506: Mecha Phantom Beast Hamstrat
+10508: Brotherhood of the Fire Fist - Leopard
+10509: Brotherhood of the Fire Fist - Rhino
+10510: Brotherhood of the Fire Fist - Buffalo
+10512: Wheel of Prophecy
+10514: Legendary Atlantean Tridon
+10517: Altitude Knight
+10518: Windrose the Elemental Lord
+10523: Risebell the Star Adjuster
+10539: Magnum Shield
+10542: Scramble!! Scramble!!
+10543: Fire Formation - Gyokkou
+10545: Abyss-scale of the Mizuchi
+10546: Hysteric Sign
+10551: Memory Loss
+10554: Aerial Recharge
+10555: Do a Barrel Roll
+10556: Fire Formation - Kaiyo
+10557: Madolche Nights
+10559: High Tide on Fire Island
+10561: Dragoncarnation
+10563: Harpie Dancer
+10565: Magical Undertaker
+10566: Caligo Claw Crow
+10568: Puzzle Reborn
+10578: Duck Fighter
+10579: Interplanetarypurplythorny Beast
+10583: Madolche Chickolates
+10584: Vivid Knight
+10587: Rose Archer
+10591: Silver's Cry
+10592: Castle of Dragon Souls
+10593: Azure-Eyes Silver Dragon
+10595: Noble Knight Gwalchavad
+10596: Brotherhood of the Fire Fist - Coyote
+10597: Mermail Abyssbalaen
+10598: Trifortressops
+10599: Ghost Fairy Elfobia
+10601: Noble Arms of Destiny
+10603: Five Brothers Explosion
+10606: Interceptomato
+10607: Spell Recycler
+10619: Bujin Yamato
+10620: Bujingi Quilin
+10621: Bujingi Turtle
+10624: Bujingi Ophidian
+10628: Mecha Phantom Beast Harrliard
+10633: Archfiend Cavalry
+10634: Archfiend Emperor, the First Lord of Horror
+10639: Talaya, Princess of Cherry Blossoms
+10641: Masked Chameleon
+10644: Mecha Phantom Beast Concoruda
+10645: Brotherhood of the Fire Fist - Kirin
+10649: HTS Psyhemuth
+10667: Vertical Landing
+10668: Fire Formation - Yoko
+10669: Archfiend Palabyrinth
+10670: Transmodify
+10672: Single Purchase
+10673: Reverse Glasses
+10677: Bujin Regalia - The Sword
+10678: Bujinfidel
+10679: Sonic Boom
+10680: Traptrix Trap Hole Nightmare
+10682: Shapesister
+10683: Armageddon Designator
+10731: Hundred-Footed Horror
+10733: Chow Chow Chan
+10743: Armed Protector Dragon
+10749: Ghostrick Witch
+10750: Ghostrick Yuki-onna
+10752: Ghostrick Stein
+10753: Bujin Mikazuchi
+10755: Bujingi Ibis
+10756: Bujingi Boar
+10757: Bujingi Centipede
+10759: Mecha Phantom Beast Kalgriffin
+10762: Vampire Grace
+10763: Pumprincess the Princess of Ghosts
+10768: Skelesaurus
+10769: Knight Day Grepher
+10771: Mariña, Princess of Sunflowers
+10773: Swarm of Crows
+10774: Terrene Toothed Tsuchinoko
+10789: Giganticastle
+10794: Bujin Regalia - The Mirror
+10795: Vampire Kingdom
+10796: Pot of Dichotomy
+10797: Swords at Dawn
+10801: Burst Rebirth
+10803: Intrigue Shield
+10804: Ghostrick Vanish
+10805: Ghostrick Scare
+10806: Vampire Takeover
+10808: Chain Ignition
+10812: Galaxy Serpent
+10813: Noble Knight Drystan
+10814: Bujingi Warg
+10815: Mecha Phantom Beast Aerosguin
+10816: Cockadoodledoo
+10817: Tour Bus To Forbidden Realms
+10818: Confronting the "C"
+10819: Angel of Zera
+10822: Shogi Knight
+10823: Black Luster Soldier - Envoy of the Evening Twilight
+10826: Chaos Seed
+10827: Exchange of Night and Day
+10858: Sea Lord's Amulet
+10864: Blue Flame Swordsman
+10865: Harpie Lady Phoenix Formation
+10866: Cyber Dragon Core
+10867: Cyber Dragon Drei
+10868: Cyber Repair Plant
+10869: Cyber Network
+10871: Ghostrick Ghoul
+10874: Archfiend Giant
+10876: Noble Knight Borz
+10877: Ignoble Knight of High Laundsallyn
+10882: Geargiano Mk-III
+10883: Geargiattacker
+10886: Raiden, Hand of the Lightsworn
+10901: Sylvan Peaskeeper
+10902: Sylvan Komushroomo
+10903: Sylvan Marshalleaf
+10904: Sylvan Flowerknight
+10905: Sylvan Guardioak
+10906: Sylvan Hermitree
+10907: Ghostrick Jackfrost
+10910: Ghostrick Skeleton
+10911: Ghostrick Mummy
+10912: Bujin Arasuda
+10916: Bujingi Hare
+10919: Gravekeeper's Shaman
+10920: Gravekeeper's Oracle
+10921: Mystic Macrocarpa Seed
+10922: Kalantosa, Mystical Beast of the Forest
+10924: Black Brachios
+10927: Sirenorca
+10929: Tackle Crusader
+10951: Bujinunity
+10952: Hidden Temples of Necrovalley
+10956: Shared Ride
+10963: The Monarchs Awaken
+10965: Oath of Companionship
+10982: Cybernetic Fusion Support
+10983: Powerful Rebirth
+10984: Sylvan Bladefender
+10985: Sylvan Mikorange
+10986: Ghostrick Yeti
+10987: Bujingi Pavo
+10989: Noble Knight Peredur
+10992: Obedience Schooled
+10994: Flowerbot
+10995: Humpty Grumpty
+10997: Dragoroar
+10999: Geargiauger
+11003: Panzer Dragon
+11010: Dynatherium
+11024: Ghost of a Grudge
+11048: Sylvan Snapdrassinagon
+11049: Sylvan Lotuswain
+11051: Ghostrick Doll
+11053: Bujin Hirume
+11055: Mecha Phantom Beast O-Lion
+11059: Gladiator Beast Augustus
+11061: Ancient Gear Box
+11062: Dawn Knight
+11064: Thestalos the Mega Monarch
+11065: Beautunaful Princess
+11093: Bujintervention
+11102: Sylvan Waterslide
+11127: Guiding Light
+11139: Terratiger, the Empowered Warrior
+11142: Blue Dragon Summoner
+11144: White Tiger Summoner
+11146: Sorcerous Spell Wall
+11150: Kuribandit
+11158: Guarded Treasure
+11161: Flash Fusion
+11164: Pair Cycroid
+11166: Doble Passe
+11167: Carboneddon
+11169: Ra's Disciple
+11171: Shooting Star
+11172: Blackwing - Oroshi the Squall
+11174: Blackwing - Hurricane the Tornado
+11176: Black Wing Revenge
+11179: Gate Blocker
+11199: Bujingi Sinyou
+11200: Vampire Vamp
+11201: Gladiator Beast Nerokius
+11203: Avalon
+11204: Escalation of the Monarchs
+11206: Wattsychic Fighter
+11208: Earthshattering Event
+11209: Ghostrick Break
+11226: Battleguard King
+11245: The Agent of Entropy - Uranus
+11246: Djinn Demolisher of Rituals
+11248: Resonance Insect
+11251: Dogu
+11255: Spy-C-Spy
+11259: Saffira, Queen of Dragons
+11265: Feast of the Wild LV5
+11272: Hymn of Light
+11276: Pop-Up
+11277: Battleguard Rage
+11278: Battleguard Howling
+11285: Chain Dispel
+11286: Face-Off
+11289: That Six
+11302: Lightsworn Sanctuary
+11304: Junk Anchor
+11307: Escher the Frost Vassal
+11309: Mask Charge
+11322: U.A. Mighty Slugger
+11324: U.A. Stadium
+11370: Valerifawn, Mystical Beast of the Forest
+11387: Wonder Balloons
+11390: Magical Star Illusion
+11399: Strike of the Monarchs
+11400: Cursed Bamboo Sword
+11410: Fusion Reserve
+11411: Solemn Scolding
+11419: Elemental HERO Blazeman
+11421: Mecha Phantom Beast Jaculuslan
+11424: Master Craftsman Gamil
+11425: Card Advance
+11426: Bashing Shield
+11427: Inspiration
+11428: Ghosts From the Past
+11430: Typhoon
+11431: Swamp Mirrorer
+11432: Quantum Cat
+11467: Stardust Flash
+11469: Noble Knight Bedwyr
+11470: Last Chapter of the Noble Knights
+11504: Fusion Substitute
+11510: U.A. Midfielder
+11515: Heavy Knight of the Flame
+11516: BOXer
+11517: Kabuki Dragon
+11532: Gem-Knight Lapis
+11550: Morphtronic Smartfon
+11551: Jinzo - Jector
+11552: Skilled Blue Magician
+11554: Jigabyte
+11563: Marmiting Captain
+11566: Gem-Knight Lady Lapis Lazuli
+11586: Extra Net
+11588: Wall of Disruption
+11598: Soul Transition
+11600: Double Trap Hole
+11603: Rainbow Refraction
+11604: Crystal Conclave
+11620: Jet Synchron
+11626: Scrap-Iron Statue
+11637: U.A. Playmaker
+11643: Rose Paladin
+11648: Masked HERO Anki
+11655: Parallel Twister
+11656: Stardust Re-Spark
+11657: Harpie Harpist
+11661: Gift Exchange
+11664: Fiendish Rhino Warrior
+11666: World Carrotweight Champion
+11669: Dark Burning Attack
+11670: Dark Burning Magic
+11671: Symbol of Friendship
+11711: Doomdog Octhros
+11737: Galaxy Cyclone
+11740: Unexpected Dai
+11749: Jar of Avarice
+11751: Fiend Griefing
+11754: Monster Rebone
+11756: Mithra the Thunder Vassal
+11757: Berlineth the Firestorm Vassal
+11763: Fire King Island
+11776: U.A. Dreadnought Dunker
+11777: U.A. Rival Rebounder
+11779: U.A. Penalty Box
+11781: Junk Breaker
+11805: The Black Stone of Legend
+11818: Aromage Jasmine
+11820: Aromage Rosemary
+11821: Aromage Bergamot
+11831: Gem-Knight Lady Brilliant Diamond
+11844: Cards of the Red Stone
+11846: Aroma Garden
+11848: Back-Up Rider
+11849: Mistaken Arrest
+11863: Extra Buck
+11869: Geargianchor
+11875: Caninetaur
+11886: Tyrant Wing
+11893: Double Magical Arm Bind
+11896: Paladin of Dark Dragon
+11897: Dark Dragon Ritual
+11898: Red-Eyes Spirit
+11901: Toon Kingdom
+11902: Toon Rollback
+11915: Reverse Reuse
+11916: Aquaactress Tetra
+11917: Aquaactress Guppy
+11918: Aquaactress Arowana
+11920: Aquarium Set
+11921: Aquarium Lighting
+11927: The Winged Dragon of Ra - Sphere Mode
+11964: Sphere Kuriboh
+11980: Skilled Red Magician
+11982: Toon Barrel Dragon
+11985: Dr. Frankenderp
+11992: Graydle Dragon
+11997: Shuffle Reborn
+12001: Gateway to Chaos
+12009: Painful Decision
+12010: Super Rush Headlong
+12015: Super Soldier Shield
+12021: Urgent Ritual Art
+12024: First-Aid Squad
+12032: Extinction on Schedule
+12041: Black Luster Soldier - Sacred Soldier
+12083: Paleozoic Hallucigenia
+12084: Paleozoic Canadia
+12085: Paleozoic Pikaia
+12087: Stardust Assault Warrior
+12089: Relinkuriboh
+12099: Painful Escape
+12122: Blackwing - Harmattan the Dust
+12126: Buster Blader, the Destruction Swordmaster
+12129: Wizard Buster Destruction Sword
+12130: Robot Buster Destruction Sword
+12146: Toon Buster Blader
+12153: Buster Blader, the Dragon Destroyer Swordsman
+12168: Karma of the Destruction Swordsman
+12176: Mistaken Accusation
+12192: Paleozoic Eldonia
+12194: Paleozoic Marrella
+12195: Paleozoic Leanchoilia
+12208: Booby Trap E
+12235: Curse of Dragonfire
+12238: Sky Galloping Gaia the Dragon Champion
+12242: Ultimate Providence
+12251: Priestess with Eyes of Blue
+12254: Angmarl the Fiendish Monarch
+12256: Junkuriboh
+12257: Stardust Charge Warrior
+12264: Frost Blast of the Monarchs
+12273: Angel Trumpeter
+12291: Protector with Eyes of Blue
+12310: Tenmataitei
+12331: Mausoleum of White
+12332: Beacon of White
+12337: Pre-Preparation of Rites
+12338: Fusion Tag
+12339: Tuner's High
+12341: Finite Cards
+12347: Drowning Mirror Force
+12352: Graceful Tear
+12359: Arkbrave Dragon
+12361: Paladin of Felgrand
+12362: Guardian of Felgrand
+12363: Ruins of the Divine Dragon Lords
+12382: Dragon Knight of Creation
+12395: Vennu, Bright Bird of Divinity
+12396: Primal Cry
+12397: Onikuji
+12417: Magician's Robe
+12418: Magician's Rod
+12435: Black Dragon Ninja
+12436: Spell Strider
+12440: Wrecker Panda
+12457: Illusion Magic
+12458: Dark Magic Expanded
+12464: Cosmic Cyclone
+12465: Pot of Desires
+12467: Card of the Soul
+12473: Triamid Pulse
+12475: Floodgate Trap Hole
+12476: Premature Return
+12477: Unified Front
+12511: Magicians' Defense
+12539: Ritual Sanctuary
+12565: Silent Magician
+12566: Silent Sword Slash
+12567: Silent Burning
+12568: Magnet Reverse
+12569: Magnet Force
+12570: Neutron Blast
+12571: Tribute Burial
+12574: Beta The Electromagnet Warrior
+12577: Kuribohrn
+12579: Dark Magic Inheritance
+12583: B-Buster Drake
+12585: Heavy Mech Support Armor
+12587: Majesty with Eyes of Blue
+12588: Union Scramble
+12613: Chemicritter Hydron Hawk
+12614: Chemicritter Carbo Crab
+12616: Poly-Chemicritter Dioxogre
+12617: Poly-Chemicritter Hydragon
+12618: Meteor Dragon Red-Eyes Impact
+12622: Doki Doki
+12637: Aromaseraphy Rosemary
+12650: Red-Eyes Insight
+12653: "A" Cell Recombination Device
+12654: Sprite's Blessing
+12655: Pot of Acquisitiveness
+12656: Quarantine
+12669: Summon Gate
+12682: Magical Something
+12683: Ninjitsu Art Notebook
+12694: Destiny HERO - Dangerous
+12702: Destiny HERO - Drilldark
+12704: Destiny HERO - Decider
+12706: Destiny HERO - Dark Angel
+12707: Destiny HERO - Celestial
+12708: D Cubed
+12709: D-Fusion
+12735: Delta The Magnet Warrior
+12745: Cyber Tutubon
+12757: Shinobird Crow
+12758: Shinobird Crane
+12764: Apprentice Piper
+12766: Yokotuner
+12772: Shinobaroness Peacock
+12773: Shinobaron Peacock
+12790: Machine Angel Absolute Ritual
+12795: Shinobird's Calling
+12796: Shinobird Power Spot
+12797: Super Soldier Synthesis
+12800: Foolish Burial Goods
+12801: That Grass Looks Greener
+12808: Beginning of Heaven and Earth
+12815: Massivemorph
+12816: Shinobird Token
+12818: Vermillion Dragon Mech
+12872: Fusion Recycling Plant
+12889: Brohunder
+12896: Gozuki
+12898: Chaos Scepter Blast
+13000: Cosmic Flare
+13012: Megalosmasher X
+13071: Treasure Panda
+13074: Orbital Hydralander
+13094: Air Cracking Storm
+13102: Gravity Lash
+13108: Pulse Mines
+13146: Amazoness Spy
+13153: Destiny HERO - Dreamer
+13155: Spacetime Transcendence
+13170: Red-Eyes Slash Dragon
+13172: Amazoness Princess
+13173: Amazoness Baby Tiger
+13175: Amazoness Onslaught
+13176: The Legendary Fisherman II
+13177: Citadel Whale
+13179: Sea Stealth Attack
+13180: Cyberdark Cannon
+13181: Cyberdark Claw
+13182: Cyberdarkness Dragon
+13183: Cyberdark Inferno
+13184: Mixeroid
+13185: Super Vehicroid - Mobile Base
+13186: Megaroid City
+13187: Emergeroid Call
+13188: Water Dragon Cluster
+13189: Duoterion
+13190: Bonding - D2O
+13191: Bonding - DHO
+13207: Samurai Skull
+13245: Fire King Avatar Arvata
+13248: Soldier Dragons
+13249: Duck Dummy
+13250: Leng Ling
+13255: Elemental Grace Doriado
+13278: Arrivalrivals
+13279: Overdone Burial
+13280: Temple of the Mind's Eye
+13281: Backup Squad
+13309: Secret Six Samurai - Hatsume
+13310: Secret Six Samurai - Doji
+13311: Secret Six Samurai - Kizaru
+13312: Secret Six Samurai - Rihan
+13313: Secret Skills of the Six Samurai
+13403: Desmanian Devil
+13406: Overtex Qoatlus
+13430: Glory of the Noble Knights
+13433: Hey, Trunade!
+13434: Downbeat
+13444: Mythical Bestiamorph
+13446: Call of the Archfiend
+13449: Showdown of the Secret Sense Scroll Techniques
+13451: Oops!
+13469: Metamorphosed Insect Queen
+13470: Cocoon of Ultra Evolution
+13475: Proton Blast
+13477: Ojamassimilation
+13478: Ojamatch
+13484: Rainbow Overdragon
+13485: Rainbow Bridge
+13486: Crystal Bond
+13487: Ultimate Crystal Magic
+13581: Batteryman Solar
+13620: Monster Reborn Reborn
+13632: Heartless Drop Off
+13637: Batteryman Token
+13644: Vampire Familiar
+13645: Vampire Retainer
+13647: Vampire Grimson
+13648: Vampire Scarlet Scourge
+13651: Vampire's Desire
+13652: Vampire's Domain
+13655: Donpa, Marksman Fur Hire
+13656: Recon, Scout Fur Hire
+13658: Beat, Bladesman Fur Hire
+13659: Seal, Strategist Fur Hire
+13662: Dyna, Hero Fur Hire
+13663: Wiz, Sage Fur Hire
+13666: Mayhem Fur Hire
+13667: Training Fur Hire, Fur All Your Training Needs
+13740: Cupid Volley
+13782: Cross Breed
